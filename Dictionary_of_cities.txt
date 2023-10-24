@@ -1,0 +1,945 @@
+Kandahar	31degree37minutesN 65degree43minutesE Afghanistan 
+Kabul	34degree32minutesN 69degree10minutesE Afghanistan 
+Algiers	36degree46minutesN 3degree13minutesE Algeria 
+Adelaide	34degree56minutesS 138degree36minutesE Australia 
+Aarhus	56degree09minutesN 10degree13minutesE Denmark 
+Addis Ababa 	9degree02minutesN 38degree44minutesE Ethiopia  
+Accra	5degree33minutesN 0degree12minutesW Ghana 
+Abidjan 	5degree19minutesN 4degree02minutesW Ivory Coast  
+Aberdeen 	57degree09minutesN 2degree07minutesW United Kingdom  
+Acapulco	16degree52minutesN 99degree53minutesW Mexico 
+Abuja	9degree04minutesN 7degree29minutesE Nigeria 
+Abu Dhabi 	24degree28minutesN 54degree22minutesE United Arab Emirates  
+Adana	37degree00minutesN 35degree19minutesE Turkey 
+Adamstown 	25degree04minutesS 130degree06minutesW United Kingdom  
+Adak 	51degree53minutesN 176degree39minutesW United States  
+Alert	82degree30minutesN 62degree20minutesW Canada 
+Alajuela 	10degree01minutesN 84degree13minutesW Costa Rica  
+Akureyri	65degree41minutesN 18degree06minutesW Iceland 
+Ahmedabad	23degree02minutesN 72degree35minutesE India 
+Agartala	23degree50minutesN 91degree16minutesE India 
+Adham	2 1 Egypt
+Agra	27degree11minutesN 78degree01minutesE India 
+Aguascalientes	21degree53minutesN 102degree18minutesW Mexico 
+Albuquerque 	35degree07minutesN 106degree37minutesW United States  
+Alexandria	31degree12minutesN 29degree55minutesE Egypt 
+Andorra la Vella 	42degree30minutesN 1degree30minutesE Andorra  
+Amritsar	31degree38minutesN 74degree52minutesE India 
+Ambon	3degree42minutesS 128degree10minutesE Indonesia 
+Almaty	43degree17minutesN 76degree54minutesE Kazakhstan 
+Alor Setar 	6degree07minutesN 100degree22minutesE Malaysia  
+Alofi 	19degree03minutesS 169degree55minutesW New Zealand  
+Amman	31degree56minutesN 35degree56minutesE Jordan 
+Amsterdam	52degree22minutesN 4degree54minutesE Netherlands 
+Anadyr	64degree44minutesN 177degree31minutesE Russia 
+Anchorage 	61degree13minutesN 149degree54minutesW United States  
+Huambo	12degree46minutesS 15degree44minutesE Angola 
+Córdoba	31degree25minutesS 64degree11minutesW Argentina 
+Buenos Aires 	34degree36minutesS 58degree23minutesW Argentina  
+Bahía Blanca 	38degree43minutesS 62degree16minutesW Argentina  
+Antwerp	51degree13minutesN 4degree24minutesE Belgium 
+Antofagasta	23degree39minutesS 70degree24minutesW Chile 
+Antananarivo	18degree56minutesS 47degree31minutesE Madagascar 
+Angra do Heroísmo 	38degree29minutesN 27degree13minutesW Portugal  
+Ankara	39degree56minutesN 32degree52minutesE Turkey 
+Aracaju	10degree55minutesS 37degree03minutesW Brazil 
+Apia	13degree50minutesS 171degree45minutesW Samoa 
+Araraquara	21degree48minutesS 48degree11minutesW Brazil 
+Assis	22degree40minutesS 50degree25minutesW Brazil 
+Arica	18degree29minutesS 70degree20minutesW Chile 
+Arequipa	16degree24minutesS 71degree32minutesW Peru 
+Asmara	15degree20minutesN 38degree56minutesE Eritrea 
+Arkhangelsk	64degree32minutesN 40degree32minutesE Russia 
+Ashgabat	37degree56minutesN 58degree22minutesE Turkmenistan 
+Athena	37degree58minutesN 23degree43minutesE Greece 
+Astana	51degree10minutesN 71degree26minutesE Kazakhstan 
+Asunción	25degree17minutesS 57degree38minutesW Paraguay 
+Baghdad	33degree20minutesN 44degree26minutesE Iraq 
+Avarua 	21degree12minutesS 159degree46minutesW New Zealand  
+Auckland 	36degree50minutesS 174degree44minutesE New Zealand  
+Atlanta 	33degree45minutesN 84degree23minutesW United States  
+Austin 	30degree15minutesN 97degree45minutesW United States  
+Augusta 	44degree19minutesN 69degree47minutesW United States  
+Ayacucho	13degree10minutesS 74degree13minutesW Peru 
+Brisbane	27degree28minutesS 153degree02minutesE Australia 
+Baku	40degree24minutesN 49degree53minutesE Azerbaijan 
+Bridgetown	13degree06minutesN 59degree37minutesW Barbados 
+Belmopan	17degree15minutesN 88degree46minutesW Belize 
+Belize City 	17degree30minutesN 88degree11minutesW Belize  
+Bauru	22degree19minutesS 49degree04minutesW Brazil 
+Bandar Seri Begawan 	4degree53minutesN 114degree57minutesE Brunei  
+Balikpapan	1degree16minutesS 116degree50minutesE Indonesia 
+Banda Aceh 	5degree33minutesN 95degree19minutesE Indonesia  
+Bamako	12degree39minutesN 8degree00minutesW Mali 
+Baltimore 	39degree17minutesN 76degree37minutesW United States  
+Bangui 	4degree22minutesN 18degree35minutesE Central African Republic  
+Bangalore	12degree58minutesN 77degree34minutesE India 
+Bandung	6degree55minutesS 107degree37minutesE Indonesia 
+Bangkok	13degree45minutesN 100degree28minutesE Thailand 
+Barranquilla	10degree58minutesN 74degree48minutesW Colombia 
+Banjul	13degree27minutesN 16degree35minutesW Gambia 
+Barcelona	41degree23minutesN 2degree11minutesE Spain 
+Basse-Terre	16degree00minutesN 61degree44minutesW France 
+Basra	30degree30minutesN 47degree49minutesE Iraq 
+Basel	47degree34minutesN 7degree36minutesE Switzerland 
+Barrow 	71degree18minutesN 156degree46minutesW United States  
+Basseterre 	17degree18minutesN 62degree44minutesW Saint Kitts and Nevis  
+Batticaloa 	7degree43minutesN 81degree42minutesE Sri Lanka  
+Bath 	51degree23minutesN 2degree22minutesW United Kingdom  
+Beirut	33degree53minutesN 35degree31minutesE Lebanon 
+Beijing 	39degree55minutesN 116degree23minutesE People's Republic of China  
+Belgrade	44degree49minutesN 20degree28minutesE Serbia 
+Belfast 	54degree36minutesN 5degree56minutesW United Kingdom  
+Belém	1degree27minutesS 48degree30minutesW Brazil 
+Belo Horizonte 	19degree55minutesS 43degree56minutesW Brazil  
+Brasília	15degree48minutesS 47degree52minutesW Brazil 
+Boa Vista 	2degree49minutesN 60degree40minutesW Brazil  
+Berlin	52degree31minutesN 13degree23minutesE Germany 
+Benghazi	32degree07minutesN 20degree04minutesE Libya 
+Benin City 	6degree19minutesN 5degree36minutesE Nigeria  
+Bergen	60degree23minutesN 5degree20minutesE Norway 
+Bissau	11degree51minutesN 15degree34minutesW Guinea-Bissau 
+Bishkek	42degree52minutesN 74degree37minutesE Kyrgyzstan 
+Birkirkara	35degree54minutesN 14degree28minutesE Malta 
+Bhisho 	32degree51minutesS 27degree26minutesE South Africa  
+Bern	46degree57minutesN 7degree27minutesE Switzerland 
+Bilbao	43degree15minutesN 2degree55minutesW Spain 
+Birmingham 	52degree29minutesN 1degree54minutesW United Kingdom  
+Bismarck 	46degree49minutesN 100degree47minutesW United States  
+Blantyre	15degree47minutesS 35degree00minutesE Malawi 
+Bloemfontein 	29degree07minutesS 26degree13minutesE South Africa  
+Bobo-Dioulasso 	11degree11minutesN 4degree17minutesW Burkina Faso  
+Bogotá	4degree36minutesN 74degree05minutesW Colombia 
+Bogor	6degree36minutesS 106degree48minutesE Indonesia 
+Bodø	67degree18minutesN 14degree33minutesE Norway 
+Boden	65degree50minutesN 21degree43minutesE Sweden 
+Bordeaux	44degree50minutesN 0degree35minutesW France 
+Bologna	44degree30minutesN 11degree21minutesE Italy 
+Boise 	43degree37minutesN 116degree12minutesW United States  
+Bradford 	53degree48minutesN 1degree45minutesW United Kingdom  
+Boulder 	40degree01minutesN 105degree17minutesW United States  
+Boston 	42degree21minutesN 71degree04minutesW United States  
+Brest	48degree23minutesN 4degree29minutesW France 
+Bremen	53degree05minutesN 8degree48minutesE Germany 
+Brazzaville 	4degree16minutesS 15degree18minutesE Republic of the Congo  
+Bratsk	56degree07minutesN 101degree36minutesE Russia 
+Bratislava	48degree09minutesN 17degree07minutesE Slovakia 
+Brikama	13degree16minutesN 16degree39minutesW Gambia 
+Brighton and Hove 	50degree50minutesN 0degree09minutesW United Kingdom  
+Brussels	50degree51minutesN 4degree21minutesE Belgium 
+Bristol 	51degree27minutesN 2degree35minutesW United Kingdom  
+Budapest	47degree28minutesN 19degree03minutesE Hungary 
+Bucharest	44degree26minutesN 26degree06minutesE Romania 
+Comodoro Rivadavia 	45degree52minutesS 67degree29minutesW Argentina  
+Cairns	16degree56minutesS 145degree47minutesE Australia 
+Bujumbura	3degree23minutesS 29degree22minutesE Burundi 
+Buffalo 	42degree54minutesN 78degree51minutesW United States  
+Cagliari	39degree15minutesN 9degree03minutesE Italy 
+Cabo San Lucas 	22degree53minutesN 109degree55minutesW Mexico  
+Busan 	35degree11minutesN 129degree05minutesE South Korea  
+Bursa	40degree11minutesN 29degree03minutesE Turkey 
+Bulawayo	20degree10minutesS 28degree35minutesE Zimbabwe 
+Canberra	35degree18minutesS 149degree07minutesE Australia 
+Campo Grande 	20degree28minutesS 54degree37minutesW Brazil  
+Campinas	22degree54minutesS 47degree03minutesW Brazil 
+Campina Grande 	7degree14minutesS 35degree53minutesW Brazil  
+Calgary	51degree03minutesN 114degree04minutesW Canada 
+Calama	22degree28minutesS 68degree56minutesW Chile 
+Cairo	30degree03minutesN 31degree14minutesE Egypt 
+Calais	50degree57minutesN 1degree51minutesE France 
+Cambridge 	52degree12minutesN 0degree07minutesE United Kingdom  
+Chittagong	22degree22minutesN 91degree48minutesE Bangladesh 
+Charleroi	50degree24minutesN 4degree26minutesE Belgium 
+Caruaru	8degree17minutesS 35degree59minutesW Brazil 
+Cartagena	10degree24minutesN 75degree30minutesW Colombia 
+Cannes	43degree33minutesN 7degree01minutesE France 
+Cancún	21degree10minutesN 86degree51minutesW Mexico 
+Cape Town 	33degree56minutesS 18degree25minutesE South Africa  
+Cardiff 	51degree29minutesN 3degree11minutesW United Kingdom  
+Caracas	10degree30minutesN 66degree55minutesW Venezuela 
+Cayenne	4degree55minutesN 52degree20minutesW France 
+Catania	37degree30minutesN 15degree05minutesE Italy 
+Casablanca	33degree32minutesN 7degree35minutesW Morocco 
+Castries 	14degree01minutesN 60degree59minutesW Saint Lucia  
+Chandigarh	30degree45minutesN 76degree47minutesE India 
+Cebu City 	10degree17minutesN 123degree54minutesE Philippines  
+Chaguanas 	10degree30minutesN 61degree23minutesW Trinidad and Tobago  
+Changchun 	43degree54minutesN 125degree12minutesE People's Republic of China  
+Charlottetown	46degree14minutesN 63degree09minutesW Canada 
+Charlotte Amalie 	18degree21minutesN 64degree57minutesW United States  
+Charlotte 	35degree14minutesN 80degree51minutesW United States  
+Charleston 	38degree21minutesN 81degree38minutesW United States  
+Chennai (Madras) 	13degree05minutesN 80degree16minutesE India  
+Chengdu 	30degree40minutesN 104degree04minutesE People's Republic of China  
+Chelyabinsk	55degree09minutesN 61degree23minutesE Russia 
+Chihuahua	28degree38minutesN 106degree05minutesW Mexico 
+Chiang Mai 	18degree48minutesN 99degree00minutesE Thailand  
+Cheyenne 	41degree09minutesN 104degree48minutesW United States  
+Chiang Rai 	19degree55minutesN 99degree50minutesE Thailand  
+Chicago 	41degree53minutesN 87degree38minutesW United States  
+Chinandega	12degree37minutesN 87degree09minutesW Nicaragua 
+Chuí	33degree41minutesS 53degree27minutesW Brazil 
+Chişinău	47degree00minutesN 28degree55minutesE Moldova 
+Christchurch 	43degree32minutesS 172degree37minutesE New Zealand  
+Chongjin 	41degree48minutesN 129degree47minutesE North Korea  
+Chongqing 	29degree34minutesN 106degree34minutesE People's Republic of China  
+Coihaique	45degree34minutesS 72degree04minutesW Chile 
+Ciudad Juárez 	31degree44minutesN 106degree29minutesW Mexico  
+Cincinnati 	39degree06minutesN 84degree31minutesW United States  
+Ciudad Bolívar 	8degree07minutesN 63degree33minutesW Venezuela  
+Ciudad del Este 	25degree31minutesS 54degree37minutesW Paraguay  
+Cluj-Napoca	46degree46minutesN 23degree35minutesE Romania 
+Cleveland 	41degree29minutesN 81degree40minutesW United States  
+Cockburn Town 	21degree28minutesN 71degree08minutesW United Kingdom  
+Cologne	50degree56minutesN 6degree58minutesE Germany 
+Colombo 	6degree56minutesN 79degree51minutesE Sri Lanka  
+Columbia 	34degree00minutesN 81degree03minutesW United States  
+Columbus 	39degree59minutesN 82degree59minutesW United States  
+Cotonou	6degree22minutesN 2degree26minutesE Benin 
+Copiapó	27degree22minutesS 70degree20minutesW Chile 
+Concepción	36degree50minutesS 73degree03minutesW Chile 
+Conakry	9degree31minutesN 13degree43minutesW Guinea 
+Copenhagen	55degree41minutesN 12degree34minutesE Denmark 
+Concord 	43degree12minutesN 71degree32minutesW United States  
+Cork	51degree54minutesN 8degree28minutesW Ireland 
+Cuiabá	15degree36minutesS 56degree06minutesW Brazil 
+Craiova	44degree20minutesN 23degree49minutesE Romania 
+Coventry 	52degree24minutesN 1degree31minutesW United Kingdom  
+Curitiba	25degree25minutesS 49degree15minutesW Brazil 
+Culiacán	24degree48minutesN 107degree23minutesW Mexico 
+Cusco	13degree32minutesS 71degree58minutesW Peru 
+Darwin	12degree27minutesS 130degree50minutesE Australia 
+Cúcuta	7degree54minutesN 72degree30minutesW Colombia 
+Dalian 	38degree55minutesN 121degree38minutesE People's Republic of China  
+Dakar	14degree42minutesN 17degree27minutesW Senegal 
+Daegu 	35degree52minutesN 128degree36minutesE South Korea  
+Da Nang 	16degree04minutesN 108degree14minutesE Vietnam  
+Dammam 	26degree17minutesN 50degree12minutesE Saudi Arabia  
+Damascus	33degree31minutesN 36degree18minutesE Syria 
+Dallas 	32degree47minutesN 96degree48minutesW United States  
+Dar es Salaam 	6degree48minutesS 39degree17minutesE Tanzania  
+Gold Coast 	28degree01minutesS 153degree24minutesE Australia  
+Geelong	38degree09minutesS 144degree21minutesE Australia 
+Dhaka	23degree42minutesN 90degree23minutesE Bangladesh 
+Denpasar	8degree39minutesS 115degree13minutesE Indonesia 
+Davao City 	7degree04minutesN 125degree36minutesE Philippines  
+Dededo 	13degree31minutesN 144degree50minutesE United States  
+Deadhorse 	70degree12minutesN 148degree31minutesW United States  
+Denver 	39degree44minutesN 104degree59minutesW United States  
+Des Moines 	41degree35minutesN 93degree37minutesW United States  
+Detroit 	42degree20minutesN 83degree03minutesW United States  
+Francistown	21degree10minutesS 27degree31minutesE Botswana 
+Florianópolis	27degree50minutesS 48degree25minutesW Brazil 
+Fernando de Noronha 	3degree51minutesS 32degree25minutesW Brazil  
+Douala	4degree03minutesN 9degree42minutesE Cameroon 
+Djibouti	11degree35minutesN 43degree09minutesE Djibouti 
+Dibrugarh	27degree29minutesN 95degree00minutesE India 
+Dili	8degree33minutesS 125degree35minutesE Timor-Leste 
+Dongguan 	23degree02minutesN 113degree43minutesE People's Republic of China  
+Doha	25degree17minutesN 51degree32minutesE Qatar 
+Dodoma	6degree10minutesS 35degree45minutesE Tanzania 
+Edmonton	53degree32minutesN 113degree30minutesW Canada 
+Dresden	51degree02minutesN 13degree44minutesE Germany 
+Douglas 	54degree09minutesN 4degree29minutesW United Kingdom  
+Dover 	39degree10minutesN 75degree32minutesW United States  
+Düsseldorf	51degree14minutesN 6degree47minutesE Germany 
+Dublin	53degree21minutesN 6degree16minutesW Ireland 
+Dubai 	25degree15minutesN 55degree18minutesE United Arab Emirates  
+Durango	24degree01minutesN 104degree40minutesW Mexico 
+Dunedin 	45degree52minutesS 170degree30minutesE New Zealand  
+Dundee 	56degree28minutesN 2degree58minutesW United Kingdom  
+Durban 	29degree53minutesS 31degree03minutesE South Africa  
+Dushanbe	38degree32minutesN 68degree47minutesE Tajikistan 
+Edinburgh 	55degree57minutesN 3degree11minutesW United Kingdom  
+Eureka	79degree59minutesN 85degree56minutesW Canada 
+Esbjerg	55degree29minutesN 8degree27minutesE Denmark 
+Erbil	36degree11minutesN 44degree01minutesE Iraq 
+Eilat	29degree33minutesN 34degree57minutesE Israel 
+Ensenada	31degree51minutesN 116degree36minutesW Mexico 
+El Aaiún 	27degree09minutesN 13degree12minutesW Morocco  
+Enschede	52degree13minutesN 6degree54minutesE Netherlands 
+El Paso 	31degree47minutesN 106degree25minutesW United States  
+Enugu	6degree27minutesN 7degree31minutesE Nigeria 
+Entebbe	0degree03minutesN 32degree28minutesE Uganda 
+Espoo	60degree12minutesN 24degree39minutesE Finland 
+Eskisehir	39degree47minutesN 30degree31minutesE Turkey 
+Faisalabad	31degree25minutesN 73degree05minutesE Pakistan 
+Exeter 	50degree43minutesN 3degree32minutesW United Kingdom  
+Fairbanks 	64degree51minutesN 147degree43minutesW United States  
+Florence	43degree47minutesN 11degree15minutesE Italy 
+Flores Island 	39degree28minutesN 31degree14minutesW Portugal  
+Fortaleza	3degree43minutesS 38degree33minutesW Brazil 
+Fort McMurray 	56degree44minutesN 111degree23minutesW Canada  
+Forked River 	39degree48minutesN 74degree06minutesW United States  
+Fort-de-France	14degree36minutesN 61degree05minutesW France 
+Fort Wayne 	41degree05minutesN 85degree08minutesW United States  
+Gaborone	24degree39minutesS 25degree55minutesE Botswana 
+Fredericton	45degree57minutesN 66degree40minutesW Canada 
+Frankfurt am Main 	50degree07minutesN 8degree41minutesE Germany  
+Fukuoka	33degree35minutesN 130degree24minutesE Japan 
+Freetown 	8degree29minutesN 13degree14minutesW Sierra Leone  
+Funchal	32degree39minutesN 16degree55minutesW Portugal 
+Funafuti	8degree31minutesS 179degree13minutesE Tuvalu 
+Garanhuns	8degree53minutesS 36degree30minutesW Brazil 
+Gangtok	27degree20minutesN 88degree37minutesE India 
+Gaza	31degree31minutesN 34degree27minutesE Palestine 
+Gdańsk	54degree22minutesN 18degree38minutesE Poland 
+Gaziantep	37degree04minutesN 37degree23minutesE Turkey 
+Gdynia	54degree30minutesN 18degree33minutesE Poland 
+Ghent	51degree03minutesN 3degree44minutesE Belgium 
+Georgetown	6degree48minutesN 58degree10minutesW Guyana 
+George Town 	5degree25minutesN 100degree19minutesE Malaysia  
+Geneva	46degree12minutesN 6degree09minutesE Switzerland 
+Goiânia	16degree40minutesS 49degree15minutesW Brazil 
+Gibraltar 	36degree08minutesN 5degree21minutesW United Kingdom  
+Gloucester 	51degree52minutesN 2degree14minutesW United Kingdom  
+Glasgow 	55degree51minutesN 4degree16minutesW United Kingdom  
+Hobart	42degree53minutesS 147degree20minutesE Australia 
+Graz	47degree04minutesN 15degree26minutesE Austria 
+Governador Valadares 	18degree51minutesS 41degree56minutesW Brazil  
+Gothenburg	57degree42minutesN 11degree58minutesE Sweden 
+Grande Prairie 	55degree10minutesN 118degree48minutesW Canada  
+Halifax	44degree51minutesN 63degree12minutesW Canada 
+Grise Fiord 	76degree25minutesN 82degree54minutesW Canada  
+Greenwich 	51degree29minutesN 0degree00minutesE/W United Kingdom  
+Guayaquil	2degree11minutesS 79degree53minutesW Ecuador 
+Guatemala City 	14degree37minutesN 90degree32minutesW Guatemala  
+Guadalajara	20degree40minutesN 103degree21minutesW Mexico 
+Groningen	53degree13minutesN 6degree33minutesE Netherlands 
+Grytviken 	54degree17minutesS 36degree30minutesW United Kingdom  
+Guangzhou 	23degree08minutesN 113degree16minutesE People's Republic of China  
+Guwahati	26degree11minutesN 91degree44minutesE India 
+Haarlem	52degree23minutesN 4degree38minutesE Netherlands 
+Gweru	19degree27minutesS 29degree48minutesE Zimbabwe 
+Hagåtña 	13degree29minutesN 144degree45minutesE United States  
+Hai Phong 	20degree51minutesN 106degree41minutesE Vietnam  
+Hanga Roa 	27degree09minutesS 109degree26minutesW Chile  
+Hamburg	53degree34minutesN 10degree00minutesE Germany 
+Halkida	38degree28minutesN 23degree36minutesE Greece 
+Hamilton 	37degree47minutesS 175degree17minutesE New Zealand  
+Hammerfest	70degree40minutesN 23degree41minutesE Norway 
+Handan 	36degree36minutesN 114degree29minutesE People's Republic of China  
+Havana	23degree08minutesN 82degree23minutesW Cuba 
+Hannover	52degree22minutesN 9degree43minutesE Germany 
+Hangzhou 	30degree15minutesN 120degree10minutesE People's Republic of China  
+Hastings 	39degree39minutesS 176degree50minutesE New Zealand  
+Harbin 	45degree45minutesN 126degree38minutesE People's Republic of China  
+Haparanda	65degree50minutesN 24degree08minutesE Sweden 
+Hanoi	21degree02minutesN 105degree51minutesE Vietnam 
+Harare	17degree52minutesS 31degree02minutesE Zimbabwe 
+Hargeisa	9degree34minutesN 44degree04minutesE Somalia 
+Hartford 	41degree46minutesN 72degree40minutesW United States  
+Hat Yai 	7degree01minutesN 100degree28minutesE Thailand  
+Helsinki	60degree10minutesN 24degree56minutesE Finland 
+Helena 	46degree36minutesN 112degree02minutesW United States  
+Heraklion	35degree20minutesN 25degree08minutesE Greece 
+Hiroshima	34degree23minutesN 132degree27minutesE Japan 
+Hermosillo	29degree06minutesN 110degree57minutesW Mexico 
+Hilo 	19degree42minutesN 155degree05minutesW United States  
+Ho Chi Minh City 	10degree46minutesN 106degree41minutesE Vietnam  
+Hong Kong 	22degree17minutesN 114degree10minutesE People's Republic of China  
+Horta	38degree35minutesN 28degree43minutesW Portugal 
+Honiara 	9degree28minutesS 159degree49minutesE Solomon Islands  
+Honolulu 	21degree19minutesN 157degree50minutesW United States  
+Houston 	29degree46minutesN 95degree23minutesW United States  
+Innsbruck	47degree16minutesN 11degree23minutesE Austria 
+Ilhéus	14degree47minutesS 39degree03minutesW Brazil 
+Hyderabad	17degree22minutesN 78degree29minutesE India 
+Huế	16degree28minutesN 107degree35minutesE Vietnam 
+Ibadan	7degree24minutesN 3degree55minutesE Nigeria 
+Ibiza	38degree59minutesN 1degree26minutesE Spain 
+Imperatriz	5degree32minutesS 47degree29minutesW Brazil 
+Iloilo City 	10degree43minutesN 122degree34minutesE Philippines  
+Incheon 	37degree29minutesN 126degree38minutesE South Korea  
+Indianapolis 	39degree46minutesN 86degree09minutesW United States  
+Juiz de Fora 	21degree46minutesS 43degree21minutesW Brazil  
+João Pessoa 	7degree05minutesS 34degree50minutesW Brazil  
+Iqaluit	63degree45minutesN 68degree31minutesW Canada 
+Ipoh	4degree36minutesN 101degree04minutesE Malaysia 
+Invercargill 	46degree25minutesS 168degree21minutesE New Zealand  
+Inverness 	57degree28minutesN 4degree14minutesW United Kingdom  
+Iquique	20degree13minutesS 70degree09minutesW Chile 
+Jaipur	26degree56minutesN 75degree49minutesE India 
+Isfahan	32degree38minutesN 51degree39minutesE Iran 
+Iquitos	3degree44minutesS 73degree15minutesW Peru 
+Irkutsk	52degree19minutesN 104degree18minutesE Russia 
+Islamabad	33degree43minutesN 73degree04minutesE Pakistan 
+Izhevsk	56degree50minutesN 53degree11minutesE Russia 
+Istanbul	41degree01minutesN 28degree57minutesE Turkey 
+Jacksonville 	30degree20minutesN 81degree40minutesW United States  
+Jackson 	32degree18minutesN 90degree11minutesW United States  
+Jayapura	2degree32minutesS 140degree43minutesE Indonesia 
+Jakarta	6degree12minutesS 106degree48minutesE Indonesia 
+Jamestown 	15degree55minutesS 5degree43minutesW United Kingdom  
+Jerusalem	31degree47minutesN 35degree13minutesE Israel 
+Jeddah 	21degree33minutesN 39degree10minutesE Saudi Arabia  
+Jersey City 	40degree43minutesN 74degree04minutesW United States  
+Johor Bahru 	1degree29minutesN 103degree44minutesE Malaysia  
+Jinan 	36degree40minutesN 116degree59minutesE People's Republic of China  
+Johannesburg 	26degree12minutesS 28degree03minutesE South Africa  
+Juazeiro do Norte 	7degree12minutesS 39degree20minutesW Brazil  
+Juba 	4degree51minutesN 31degree36minutesE South Sudan  
+Jyväskylä	62degree15minutesN 25degree45minutesE Finland 
+Juneau 	58degree18minutesN 134degree25minutesW United States  
+Kamloops	50degree41minutesN 120degree20minutesW Canada 
+Kaesong 	37degree58minutesN 126degree33minutesE North Korea  
+Kaliningrad	54degree43minutesN 20degree31minutesE Russia 
+Kampala	0degree19minutesN 32degree35minutesE Uganda 
+Tirana	41degree20minutesN 19degree49minutesE Albania 
+Tiaret	35degree22minutesN 1degree19minutesE Algeria 
+Luanda	8degree50minutesS 13degree14minutesE Angola 
+Kingston	29degree04minutesS 167degree58minutesE Australia 
+Kelowna	49degree53minutesN 119degree30minutesW Canada 
+Kanpur	26degree28minutesN 80degree20minutesE India 
+Kano	12degree00minutesN 8degree31minutesE Nigeria 
+Kandy 	7degree18minutesN 80degree38minutesE Sri Lanka  
+Kawasaki	35degree31minutesN 139degree42minutesE Japan 
+Kathmandu	27degree42minutesN 85degree20minutesE Nepal 
+Karachi	24degree52minutesN 67degree01minutesE Pakistan 
+Kaohsiung 	22degree38minutesN 120degree16minutesE Republic of China (Taiwan)  
+Kansas City 	39degree06minutesN 94degree35minutesW United States  
+Kazan	55degree47minutesN 49degree08minutesE Russia 
+Kemi	65degree44minutesN 24degree34minutesE Finland 
+Kemijärvi	66degree43minutesN 27degree26minutesE Finland 
+Kiel	54degree20minutesN 10degree08minutesE Germany 
+Khartoum	15degree38minutesN 32degree32minutesE Sudan 
+Kharkiv	50degree00minutesN 36degree14minutesE Ukraine 
+Key West 	24degree34minutesN 81degree47minutesW United States  
+Khon Kaen 	16degree26minutesN 102degree50minutesE Thailand  
+Kigali	1degree57minutesS 30degree04minutesE Rwanda 
+Kiev	50degree27minutesN 30degree31minutesE Ukraine 
+Kimberley 	28degree45minutesS 24degree46minutesE South Africa  
+Linz	48degree18minutesN 14degree17minutesE Austria 
+La Paz 	16degree30minutesS 68degree09minutesW Bolivia  
+Kinshasa 	4degree20minutesS 15degree19minutesE Democratic Republic of the Congo  
+Kingstown 	13degree09minutesN 61degree14minutesW Saint Vincent and the Grenadines  
+Kuopio	62degree54minutesN 27degree41minutesE Finland 
+Kumasi	6degree40minutesN 1degree37minutesW Ghana 
+Kolkata (Calcutta) 	22degree34minutesN 88degree22minutesE India  
+Kochi	9degree58minutesN 76degree17minutesE India 
+Kirkuk	35degree28minutesN 44degree19minutesE Iraq 
+Kismayo	0degree21minutesS 42degree33minutesE Somalia 
+Kiruna	67degree51minutesN 20degree13minutesE Sweden 
+Knoxville 	35degree58minutesN 83degree57minutesW United States  
+Kulpahar	25degree19minutesN 79degree38minutesE India 
+Kuching	1degree34minutesN 110degree21minutesE Malaysia 
+Kuala Lumpur 	3degree09minutesN 101degree42minutesE Malaysia  
+Kota Kinabalu 	5degree58minutesN 116degree06minutesE Malaysia  
+Kota Bharu 	6degree08minutesN 102degree15minutesE Malaysia  
+Koror City 	7degree22minutesN 134degree29minutesE Palau  
+Konya	37degree52minutesN 32degree29minutesE Turkey 
+Koulikoro	12degree52minutesN 7degree34minutesW Mali 
+Kristiansand	58degree10minutesN 8degree00minutesE Norway 
+Kraków	50degree04minutesN 19degree56minutesE Poland 
+Krasnodar	45degree02minutesN 38degree58minutesE Russia 
+Krasnoyarsk	56degree01minutesN 93degree04minutesE Russia 
+Kunming 	25degree04minutesN 102degree41minutesE People's Republic of China  
+Kuusamo	65degree58minutesN 29degree11minutesE Finland 
+Kōbe	34degree41minutesN 135degree12minutesE Japan 
+Kyoto	35degree01minutesN 135degree46minutesE Japan 
+Kuwait City 	29degree22minutesN 47degree59minutesE Kuwait  
+La Serena 	29degree54minutesS 71degree15minutesW Chile  
+Liberia 	10degree38minutesN 85degree26minutesW Costa Rica  
+Labasa	16degree26minutesS 179degree22minutesE Fiji 
+Lahti	60degree59minutesN 25degree39minutesE Finland 
+Lagos	6degree27minutesN 3degree24minutesE Nigeria 
+Lahore	31degree33minutesN 74degree21minutesE Pakistan 
+Le Havre 	49degree29minutesN 0degree06minutesE France  
+Lanzhou 	36degree02minutesN 103degree48minutesE People's Republic of China  
+Las Palmas de Gran Canaria 	28degree09minutesN 15degree25minutesW Spain  
+Lausanne	46degree31minutesN 6degree38minutesE Switzerland 
+Latakia	35degree31minutesN 35degree47minutesE Syria 
+Las Vegas 	36degree11minutesN 115degree08minutesW United States  
+Leipzig	51degree20minutesN 12degree23minutesE Germany 
+Leiden	52degree10minutesN 4degree29minutesE Netherlands 
+Leicester 	52degree38minutesN 1degree08minutesW United Kingdom  
+Leeds 	53degree48minutesN 1degree33minutesW United Kingdom  
+León	21degree07minutesN 101degree41minutesW Mexico 
+Lhasa 	29degree39minutesN 91degree06minutesE People's Republic of China  
+Limón 	9degree59minutesN 83degree02minutesW Costa Rica  
+Libreville	0degree23minutesN 9degree27minutesE Gabon 
+Lilongwe	13degree59minutesS 33degree47minutesE Malawi 
+Lillehammer	61degree08minutesN 10degree26minutesE Norway 
+Lima	12degree03minutesS 77degree02minutesW Peru 
+Lincoln 	40degree49minutesN 96degree41minutesW United States  
+Longyearbyen	78degree13minutesN 15degree39minutesE Norway 
+Lisbon	38degree43minutesN 9degree08minutesW Portugal 
+Ljubljana	46degree03minutesN 14degree31minutesE Slovenia 
+Liverpool 	53degree24minutesN 2degree59minutesW United Kingdom  
+Little Rock 	34degree44minutesN 92degree20minutesW United States  
+Livingstone	17degree51minutesS 25degree52minutesE Zambia 
+Lleida	41degree37minutesN 0degree38minutesE Spain 
+Lobamba	26degree25minutesS 31degree10minutesE Swaziland 
+Lomé	6degree08minutesN 1degree13minutesE Togo 
+London 	51degree30minutesN 0degree08minutesW United Kingdom  
+Los Angeles 	34degree03minutesN 118degree15minutesW United States  
+Los Alamos 	35degree53minutesN 106degree18minutesW United States  
+Louisville 	38degree15minutesN 85degree46minutesW United States  
+St. John's 	17degree07minutesN 61degree51minutesW Antigua and Barbuda  
+Salta	24degree47minutesS 65degree25minutesW Argentina 
+Mendoza	32degree53minutesS 68degree49minutesW Argentina 
+Mandurah	32degree32minutesS 115degree43minutesE Australia 
+Manama	26degree13minutesN 50degree35minutesE Bahrain 
+Macapá	0degree02minutesN 51degree04minutesW Brazil 
+Lubumbashi 	11degree40minutesS 27degree28minutesE Democratic Republic of the Congo  
+Luxor	25degree41minutesN 32degree39minutesE Egypt 
+Lucknow	26degree51minutesN 80degree57minutesE India 
+Ludhiana	30degree55minutesN 75degree51minutesE India 
+Luxembourg	49degree37minutesN 6degree07minutesE Luxembourg 
+Luleå	65degree35minutesN 22degree09minutesE Sweden 
+Lusaka	15degree25minutesS 28degree17minutesE Zambia 
+Lyon	45degree46minutesN 4degree51minutesE France 
+Lviv	49degree51minutesN 24degree01minutesE Ukraine 
+Maastricht	50degree51minutesN 5degree41minutesE Netherlands 
+Maceió	9degree40minutesS 35degree44minutesW Brazil 
+Macau 	22degree10minutesN 113degree33minutesE People's Republic of China  
+Malabo 	3degree45minutesN 8degree47minutesE Equatorial Guinea  
+Makassar	5degree08minutesS 119degree25minutesE Indonesia 
+Majuro 	7degree04minutesN 171degree16minutesE Marshall Islands  
+Magadan	59degree34minutesN 150degree48minutesE Russia 
+Mafikeng 	25degree51minutesS 25degree38minutesE South Africa  
+Madrid	40degree23minutesN 3degree43minutesW Spain 
+Makati	14degree33minutesN 121degree02minutesE Philippines 
+Mamoudzou	12degree47minutesS 45degree14minutesE France 
+Malang	7degree59minutesS 112degree37minutesE Indonesia 
+Malacca Town 	2degree12minutesN 102degree15minutesE Malaysia  
+Malé	4degree11minutesN 73degree31minutesE Maldives 
+Malmö	55degree35minutesN 13degree02minutesE Sweden 
+Managua	12degree08minutesN 86degree15minutesW Nicaragua 
+Manaus	3degree06minutesS 60degree01minutesW Brazil 
+Manchester 	53degree28minutesN 2degree14minutesW United Kingdom  
+Melbourne	37degree49minutesS 144degree58minutesE Australia 
+Medellín	6degree14minutesN 75degree35minutesW Colombia 
+Mata-Utu	13degree17minutesS 176degree11minutesW France 
+Marseille	43degree18minutesN 5degree22minutesE France 
+Marrakech	31degree38minutesN 8degree01minutesW Morocco 
+Maputo	25degree58minutesS 32degree35minutesE Mozambique 
+Manila	14degree35minutesN 120degree58minutesE Philippines 
+Manzini	26degree29minutesS 31degree22minutesE Swaziland 
+Maracay	10degree15minutesN 67degree36minutesW Venezuela 
+Maracaibo	10degree39minutesN 71degree38minutesW Venezuela 
+Mashhad	36degree18minutesN 59degree36minutesE Iran 
+Maseru	29degree19minutesS 27degree29minutesE Lesotho 
+Medan	3degree35minutesN 98degree40minutesE Indonesia 
+Mecca 	21degree25minutesN 39degree49minutesE Saudi Arabia  
+Mbabane	26degree19minutesS 31degree08minutesE Swaziland 
+Medina 	24degree28minutesN 39degree36minutesE Saudi Arabia  
+Melekeok	7degree29minutesN 134degree36minutesE Palau 
+Memphis 	35degree07minutesN 89degree58minutesW United States  
+Rosario	32degree57minutesS 60degree40minutesW Argentina 
+Port Hedland 	20degree19minutesS 118degree36minutesE Australia  
+Perth	31degree57minutesS 115degree52minutesE Australia 
+Newcastle	32degree55minutesS 151degree45minutesE Australia 
+Nassau	25degree04minutesN 77degree20minutesW Bahamas 
+Minsk	53degree54minutesN 27degree34minutesE Belarus 
+Messina	38degree11minutesN 15degree33minutesE Italy 
+Mersin	36degree48minutesN 34degree38minutesE Turkey 
+Milan	45degree28minutesN 9degree11minutesE Italy 
+Mexico City 	19degree26minutesN 99degree08minutesW Mexico  
+Mexicali	32degree40minutesN 115degree28minutesW Mexico 
+Miami 	25degree47minutesN 80degree13minutesW United States  
+Milwaukee 	43degree03minutesN 87degree57minutesW United States  
+Minneapolis 	44degree59minutesN 93degree16minutesW United States  
+Montreal	45degree30minutesN 73degree34minutesW Canada 
+Moncton	46degree08minutesN 64degree46minutesW Canada 
+Mombasa	4degree03minutesS 39degree40minutesE Kenya 
+Miri	4degree24minutesN 114degree00minutesE Malaysia 
+Mogadishu	2degree02minutesN 45degree21minutesE Somalia 
+Mobile 	30degree42minutesN 88degree03minutesW United States  
+Monaco	43degree44minutesN 7degree25minutesE Monaco 
+Monrovia	6degree19minutesN 10degree48minutesW Liberia 
+Monterrey	25degree40minutesN 100degree18minutesW Mexico 
+Montpelier 	44degree15minutesN 72degree34minutesW United States  
+Montevideo	34degree53minutesS 56degree11minutesW Uruguay 
+N'Djamena	12degree07minutesN 15degree03minutesE Chad 
+Moundou	8degree34minutesN 16degree05minutesE Chad 
+Moroni	11degree45minutesS 43degree12minutesE Comoros 
+Mosul	36degree20minutesN 43degree08minutesE Iraq 
+Moscow	55degree45minutesN 37degree37minutesE Russia 
+Munich	48degree08minutesN 11degree34minutesE Germany 
+Mumbai (Bombay) 	18degree59minutesN 72degree50minutesE India  
+Multan	30degree12minutesN 71degree28minutesE Pakistan 
+Mérida	20degree58minutesN 89degree37minutesW Mexico 
+Muscat	23degree37minutesN 58degree36minutesE Oman 
+Murmansk	68degree58minutesN 33degree05minutesE Russia 
+Málaga	36degree43minutesN 4degree25minutesW Spain 
+Mwanza	2degree31minutesS 32degree54minutesE Tanzania 
+Mutare	18degree58minutesS 32degree38minutesE Zimbabwe 
+Nantes	47degree13minutesN 1degree33minutesW France 
+Nagpur	21degree08minutesN 79degree05minutesE India 
+Nagoya	35degree11minutesN 136degree54minutesE Japan 
+Naha	26degree13minutesN 127degree41minutesE Japan 
+Nairobi	1degree17minutesS 36degree49minutesE Kenya 
+Nanning 	22degree49minutesN 108degree19minutesE People's Republic of China  
+Nanjing 	32degree03minutesN 118degree46minutesE People's Republic of China  
+Nakhon Ratchasima 	14degree59minutesN 102degree06minutesE Thailand  
+Namangan	41degree00minutesN 71degree40minutesE Uzbekistan 
+Naples	40degree51minutesN 14degree16minutesE Italy 
+Narvik	68degree25minutesN 17degree34minutesE Norway 
+Nashville 	36degree10minutesN 86degree47minutesW United States  
+Natal	5degree47minutesS 35degree12minutesW Brazil 
+New Delhi 	28degree37minutesN 77degree13minutesE India  
+Nemuro	43degree20minutesN 145degree35minutesE Japan 
+Naypyidaw	19degree45minutesN 96degree06minutesE Myanmar 
+Nelson 	41degree16minutesS 173degree17minutesE New Zealand  
+Ndola	12degree58minutesS 28degree38minutesE Zambia 
+Nelspruit 	25degree28minutesS 30degree59minutesE South Africa  
+New Orleans 	29degree58minutesN 90degree03minutesW United States  
+New York City 	40degree40minutesN 73degree56minutesW United States  
+Palmas	10degree11minutesS 48degree20minutesW Brazil 
+Ouagadougou 	12degree21minutesN 1degree32minutesW Burkina Faso  
+Ottawa	45degree25minutesN 75degree41minutesW Canada 
+North Bay 	46degree18minutesN 79degree27minutesW Canada  
+Nicosia	35degree10minutesN 33degree22minutesE Cyprus 
+Nice	43degree42minutesN 7degree16minutesE France 
+Niamey	13degree31minutesN 2degree06minutesE Niger 
+Ngerulmud	7degree30'2minutesN 134degree36'2minutesE Palau 
+Newcastle upon Tyne 	54degree58minutesN 1degree37minutesW United Kingdom  
+Nord	81degree36minutesN 16degree40minutesW Denmark 
+Nizhny Novgorod 	56degree20minutesN 44degree00minutesE Russia  
+Norilsk	69degree20minutesN 88degree13minutesE Russia 
+Norrköping	58degree36minutesN 16degree12minutesE Sweden 
+Odense	55degree24minutesN 10degree23minutesE Denmark 
+Nuuk (Godthåb) 	64degree11minutesN 51degree44minutesW Denmark  
+Nuorgam	70degree05minutesN 27degree53minutesE Finland 
+Nouméa	22degree17minutesS 166degree27minutesE France 
+Nouakchott	18degree06minutesN 15degree57minutesW Mauritania 
+Norwich 	52degree38minutesN 1degree18minutesE United Kingdom  
+Nottingham 	52degree57minutesN 1degree08minutesW United Kingdom  
+Novosibirsk	55degree01minutesN 82degree56minutesE Russia 
+Novi Sad 	45degree15minutesN 19degree51minutesE Serbia  
+Nukuʻalofa	21degree08minutesS 175degree12minutesW Tonga 
+Nukulaelae	9degree23minutesS 179degree51minutesE Tuvalu 
+Nukus	42degree28minutesN 59degree36minutesE Uzbekistan 
+Nzérékoré	7degree45minutesN 8degree49minutesW Guinea 
+Ny-Ålesund	78degree55minutesN 11degree56minutesE Norway 
+Orléans	47degree54minutesN 1degree55minutesE France 
+Oranjestad	12degree31minutesN 70degree02minutesW Netherlands 
+Omsk	54degree59minutesN 73degree22minutesE Russia 
+Omdurman	15degree39minutesN 32degree29minutesE Sudan 
+Odessa	46degree28minutesN 30degree44minutesE Ukraine 
+Oklahoma City 	35degree29minutesN 97degree32minutesW United States  
+Orlando 	28degree25minutesN 81degree18minutesW United States  
+Osaka	34degree42minutesN 135degree30minutesE Japan 
+Oslo	59degree57minutesN 10degree45minutesE Norway 
+Palikir 	6degree55minutesN 158degree10minutesE Federated States of Micronesia  
+Oulu	65degree01minutesN 25degree28minutesE Finland 
+Padang	0degree57minutesS 100degree21minutesE Indonesia 
+Oxford 	51degree45minutesN 1degree15minutesW United Kingdom  
+Palembang	2degree59minutesS 104degree45minutesE Indonesia 
+Pago Pago 	14degree17minutesS 170degree42minutesW United States  
+Palermo	38degree07minutesN 13degree22minutesE Italy 
+Palma	39degree34minutesN 2degree39minutesE Spain 
+Pelotas	31degree46minutesS 52degree21minutesW Brazil 
+Papeete	17degree32minutesS 149degree34minutesW France 
+Panama City 	8degree59minutesN 79degree31minutesW Panama  
+Paris	48degree51minutesN 2degree21minutesE France 
+Paramaribo	5degree52minutesN 55degree10minutesW Suriname 
+Patna	25degree37minutesN 85degree09minutesE India 
+Pekanbaru	0degree32minutesN 101degree27minutesE Indonesia 
+Pattaya	12degree56minutesN 100degree53minutesE Thailand 
+Perm	58degree00minutesN 56degree19minutesE Russia 
+Petrolina	9degree24minutesS 40degree30minutesW Brazil 
+Peshawar	34degree01minutesN 71degree35minutesE Pakistan 
+Peterborough 	52degree35minutesN 0degree15minutesW United Kingdom  
+Phnom Penh 	11degree33minutesN 104degree55minutesE Cambodia  
+Petropavlovsk-Kamchatsky	53degree01minutesN 158degree39minutesE Russia 
+Philadelphia 	39degree57minutesN 75degree10minutesW United States  
+Port Blair 	11degree40minutesN 92degree46minutesE India  
+Pontianak	0degree01minutesS 109degree20minutesE Indonesia 
+Podgorica	42degree26minutesN 19degree16minutesE Montenegro 
+Pietermaritzburg 	29degree37minutesS 30degree23minutesE South Africa  
+Phra Nakhon Si Ayutthaya 	14degree21minutesN 100degree34minutesE Thailand  
+Phoenix 	33degree27minutesN 112degree04minutesW United States  
+Phuket	7degree53minutesN 98degree24minutesE Thailand 
+Pierre 	44degree22minutesN 100degree20minutesW United States  
+Piteå	65degree20minutesN 21degree30minutesE Sweden 
+Plymouth 	50degree22minutesN 4degree09minutesW United Kingdom  
+Pittsburgh 	40degree27minutesN 80degree00minutesW United States  
+Ponta Delgada 	37degree49minutesN 25degree45minutesW Portugal  
+Polokwane 	23degree54minutesS 29degree27minutesE South Africa  
+Port Harcourt 	4degree45minutesN 7degree00minutesE Nigeria  
+Port Elizabeth 	33degree57minutesS 25degree36minutesE South Africa  
+Rockhampton	23degree23minutesS 150degree31minutesE Australia 
+Porto-Novo	6degree30minutesN 2degree36minutesE Benin 
+Porto Alegre 	30degree02minutesS 51degree14minutesW Brazil  
+Port Said 	31degree15minutesN 32degree17minutesE Egypt  
+Port Louis 	20degree10minutesS 57degree30minutesE Mauritius  
+Port Moresby 	9degree31minutesS 147degree13minutesE Papua New Guinea  
+Port-au-Prince	18degree32minutesN 72degree20minutesW Haiti 
+Port of Spain 	10degree40minutesN 61degree31minutesW Trinidad and Tobago  
+Port Vila 	17degree45minutesS 168degree18minutesE Vanuatu  
+Porto	41degree10minutesN 8degree37minutesW Portugal 
+Portland 	45degree31minutesN 122degree41minutesW United States  
+Porto Velho 	8degree46minutesS 63degree54minutesW Brazil  
+Ribeirão Preto 	21degree11minutesS 47degree48minutesW Brazil  
+Poços de Caldas 	21degree47minutesS 46degree34minutesW Brazil  
+Portsmouth 	50degree49minutesN 1degree05minutesW United Kingdom  
+Recife	8degree03minutesS 34degree54minutesW Brazil 
+Quebec City 	46degree49minutesN 71degree13minutesW Canada  
+Praia 	14degree55minutesN 23degree31minutesW Cape Verde  
+Prague 	50degree05minutesN 14degree25minutesE Czech Republic  
+Puerto Montt 	41degree28minutesS 72degree56minutesW Chile  
+Puerto Aisén 	45degree24minutesS 72degree41minutesW Chile  
+Pudasjärvi	65degree22minutesN 27degree00minutesE Finland 
+Pristina	42degree40minutesN 21degree10minutesE Serbia 
+Pretoria 	25degree45minutesS 28degree11minutesE South Africa  
+Providence 	41degree49minutesN 71degree25minutesW United States  
+Puebla	19degree03minutesN 98degree13minutesW Mexico 
+Puerto Ayacucho 	5degree40minutesN 67degree38minutesW Venezuela  
+Punta Arenas 	53degree10minutesS 70degree56minutesW Chile  
+Puerto Williams 	54degree56minutesS 67degree37minutesW Chile  
+Puerto Toro 	55degree05minutesS 67degree05minutesW Chile  
+Puerto Vallarta 	20degree40minutesN 105degree16minutesW Mexico  
+Pune	18degree31minutesN 73degree51minutesE India 
+Puntarenas 	9degree58minutesN 84degree50minutesW Costa Rica  
+Qaqortoq	60degree43minutesN 46degree02minutesW Denmark 
+Qaanaaq	7degree28minutesN 69degree14minutesW Denmark 
+Pyongyang 	39degree01minutesN 125degree44minutesE North Korea  
+Qingdao 	36degree04minutesN 120degree23minutesE People's Republic of China  
+Quito	0degree15minutesS 78degree35minutesW Ecuador 
+Quetzaltenango	14degree50minutesN 91degree31minutesW Guatemala 
+Querétaro	20degree35minutesN 100degree24minutesW Mexico 
+Quezon City 	14degree38minutesN 121degree02minutesE Philippines  
+Rabi Island 	16degree30minutesS 180degree00minutesW Fiji  
+Rabat	34degree02minutesN 6degree50minutesW Morocco 
+Rawalpindi	33degree36minutesN 73degree02minutesE Pakistan 
+Raleigh 	35degree49minutesN 78degree39minutesW United States  
+Regina	50degree27minutesN 104degree36minutesW Canada 
+Reykjavík	64degree08minutesN 21degree56minutesW Iceland 
+Reno 	39degree32minutesN 119degree49minutesW United States  
+Rio de Janeiro 	22degree55minutesS 43degree12minutesW Brazil  
+Rio Branco 	9degree58minutesS 67degree49minutesW Brazil  
+Riga	56degree57minutesN 24degree06minutesE Latvia 
+Riyadh 	24degree38minutesN 46degree43minutesE Saudi Arabia  
+Riverside 	33degree57minutesN 117degree24minutesW United States  
+Road Town 	18degree26minutesN 64degree37minutesW United Kingdom  
+Rochester 	43degree10minutesN 77degree37minutesW United States  
+Rome	41degree54minutesN 12degree30minutesE Italy 
+Río Gallegos 	51degree38minutesS 69degree13minutesW Argentina  
+Roseau	15degree18minutesN 61degree23minutesW Dominica 
+Rovaniemi	66degree30minutesN 25degree44minutesE Finland 
+Rouen	49degree26minutesN 1degree06minutesE France 
+Rotterdam	51degree56minutesN 4degree29minutesE Netherlands 
+Rostov-on-Don	47degree14minutesN 39degree42minutesE Russia 
+Saint John 	45degree17minutesN 66degree05minutesW Canada  
+Sabha	27degree02minutesN 14degree26minutesE Libya 
+Sacramento 	38degree33minutesN 121degree28minutesW United States  
+Saint-Denis	20degree53minutesS 55degree27minutesE France 
+Saint Petersburg 	59degree57minutesN 30degree18minutesE Russia  
+Saint-Pierre	46degree47minutesN 56degree11minutesW France 
+Salalah	17degree01minutesN 54degree05minutesE Oman 
+Saipan 	15degree11minutesN 145degree45minutesE United States  
+Salt Lake City 	40degree45minutesN 111degree53minutesW United States  
+San Miguel de Tucumán 	26degree49minutesS 65degree13minutesW Argentina  
+San Carlos de Bariloche 	41degree09minutesS 71degree18minutesW Argentina  
+Salzburg	47degree48minutesN 13degree02minutesE Austria 
+Salvador	12degree58minutesS 38degree29minutesW Brazil 
+Samara	53degree12minutesN 50degree08minutesE Russia 
+San Antonio 	29degree25minutesN 98degree30minutesW United States  
+San José 	9degree56minutesN 84degree05minutesW Costa Rica  
+San Fernando 	10degree17minutesN 61degree28minutesW Trinidad and Tobago  
+San Diego 	32degree43minutesN 117degree10minutesW United States  
+San Francisco 	37degree47minutesN 122degree25minutesW United States  
+San Luis Potosí 	22degree09minutesN 100degree51minutesW Mexico  
+San Juan 	18degree27minutesN 66degree04minutesW United States  
+San Marino 	43degree56minutesN 12degree27minutesE San Marino  
+Santa Cruz de la Sierra 	17degree48minutesS 63degree10minutesW Bolivia  
+San Salvador 	13degree41minutesN 89degree11minutesW El Salvador  
+Santa Cruz de Tenerife 	28degree28minutesN 16degree15minutesW Spain  
+Santa Barbara 	34degree26minutesN 119degree43minutesW United States  
+Sana'a	15degree21minutesN 44degree12minutesE Yemen 
+Sarajevo 	43degree51minutesN 18degree21minutesE Bosnia and Herzegovina  
+Santiago	33degree27minutesS 70degree40minutesW Chile 
+Santa Fe 	35degree40minutesN 105degree58minutesW United States  
+Santiago de Cali 	3degree25minutesN 76degree31minutesW Colombia  
+Santiago de Cuba 	20degree01minutesN 75degree49minutesW Cuba  
+Santo Domingo 	18degree28minutesN 69degree57minutesW Dominican Republic  
+Sapporo	43degree04minutesN 141degree21minutesE Japan 
+Sinop	11degree51minutesS 55degree39minutesW Brazil 
+Siem Reap 	13degree22minutesN 103degree52minutesE Cambodia  
+Sault Ste. Marie 	46degree32minutesN 84degree21minutesW Canada  
+Saskatoon	52degree08minutesN 106degree41minutesW Canada 
+Sarpsborg	59degree17minutesN 11degree12minutesE Norway 
+Saratov	51degree32minutesN 46degree01minutesE Russia 
+Serekunda	13degree26minutesN 16degree40minutesW Gambia 
+Sekondi-Takoradi	4degree55minutesN 1degree46minutesW Ghana 
+Seattle 	47degree37minutesN 122degree20minutesW United States  
+Semarang	6degree58minutesS 110degree25minutesE Indonesia 
+Sendai	38degree16minutesN 140degree52minutesE Japan 
+Seoul 	37degree34minutesN 126degree59minutesE South Korea  
+Shillong	25degree34minutesN 91degree53minutesE India 
+Shenzhen 	22degree33minutesN 114degree06minutesE People's Republic of China  
+Shanghai 	31degree12minutesN 121degree30minutesE People's Republic of China  
+Sevilla	37degree23minutesN 5degree59minutesW Spain 
+Sfax	34degree44minutesN 10degree46minutesE Tunisia 
+Shenyang 	41degree48minutesN 123degree24minutesE People's Republic of China  
+Sheffield 	53degree23minutesN 1degree28minutesW United Kingdom  
+Shigatse 	29degree16minutesN 88degree53minutesE People's Republic of China  
+Shijiazhuang 	38degree03minutesN 114degree30minutesE People's Republic of China  
+Shimla	31degree06minutesN 77degree10minutesE India 
+Siliguri	26degree43minutesN 88degree26minutesE India 
+Simferopol	44degree57minutesN 34degree06minutesE Russia 
+Singapore	1degree17minutesN 103degree50minutesE Singapore 
+Sobral	3degree40minutesS 40degree14minutesW Brazil 
+Skopje	42degree00minutesN 21degree26minutesE Macedonia 
+Skellefteå	64degree45minutesN 20degree57minutesE Sweden 
+Sitka 	57degree03minutesN 135degree20minutesW United States  
+Sofia	42degree42minutesN 23degree20minutesE Bulgaria 
+Sochi	43degree35minutesN 39degree43minutesE Russia 
+Split	43degree30minutesN 16degree26minutesE Croatia 
+South Tarawa 	1degree26minutesN 173degree00minutesE Kiribati  
+Southampton 	50degree54minutesN 1degree24minutesW United Kingdom  
+St. George's 	12degree03minutesN 61degree45minutesW Grenada  
+Srinagar	34degree05minutesN 74degree47minutesE India 
+Sri Jayawardenapura-Kotte 	6degree55minutesN 79degree53minutesE Sri Lanka  
+Springfield 	37degree12minutesN 93degree17minutesW United States  
+Sydney	33degree52minutesS 151degree13minutesE Australia 
+Stepanakert	39degree49minutesN 46degree45minutesE Azerbaijan 
+Stanley 	51degree42minutesS 57degree52minutesW United Kingdom  
+St. Louis 	38degree38minutesN 90degree12minutesW United States  
+Sucre	19degree03minutesS 65degree15minutesW Bolivia 
+Strasbourg	48degree35minutesN 7degree45minutesE France 
+Stjørdal	63degree29minutesN 11degree10minutesE Norway 
+Stockholm	59degree20minutesN 18degree04minutesE Sweden 
+Stuttgart	48degree47minutesN 9degree11minutesE Germany 
+Sudbury	46degree29minutesN 81degree01minutesW Canada 
+Suez	29degree58minutesN 32degree33minutesE Egypt 
+Suva	18degree08minutesS 178degree27minutesE Fiji 
+Sukhumi	43degree00minutesN 41degree01minutesE Georgia 
+Surat	21degree10minutesN 72degree50minutesE India 
+Surabaya	7degree16minutesS 112degree45minutesE Indonesia 
+Sundsvall	62degree24minutesN 17degree19minutesE Sweden 
+Surat Thani 	9degree08minutesN 99degree20minutesE Thailand  
+Swansea 	51degree37minutesN 3degree57minutesW United Kingdom  
+Thimphu	27degree28minutesN 89degree39minutesE Bhutan 
+São Luís 	2degree32minutesS 44degree18minutesW Brazil  
+São José do Rio Preto 	20degree48minutesS 49degree23minutesW Brazil  
+São José dos Campos 	23degree11minutesS 45degree53minutesW Brazil  
+São Paulo 	23degree33minutesS 46degree38minutesW Brazil  
+Teresina	5degree06minutesS 42degree48minutesW Brazil 
+Temuco	38degree45minutesS 72degree40minutesW Chile 
+Tartu	58degree23minutesN 26degree43minutesE Estonia 
+Tallinn	59degree26minutesN 24degree45minutesE Estonia 
+Tabriz	38degree04minutesN 46degree18minutesE Iran 
+São Tomé 	0degree20minutesN 6degree41minutesE São Tomé and Príncipe  
+Taiyuan 	37degree52minutesN 112degree34minutesE People's Republic of China  
+Tagbilaran	9degree39minutesN 123degree51minutesE Philippines 
+Tainan 	22degree59minutesN 120degree11minutesE Republic of China (Taiwan)  
+Taichung 	24degree09minutesN 120degree40minutesE Republic of China (Taiwan)  
+Taipei 	25degree02minutesN 121degree38minutesE Republic of China (Taiwan)  
+Tampere	61degree30minutesN 23degree46minutesE Finland 
+Tamale	9degree24minutesN 0degree51minutesW Ghana 
+Tampa 	27degree57minutesN 82degree28minutesW United States  
+Tapachula	14degree54minutesN 92degree16minutesW Mexico 
+Tampico	22degree15minutesN 97degree52minutesW Mexico 
+Tbilisi	41degree43minutesN 44degree47minutesE Georgia 
+Tashkent	41degree16minutesN 69degree13minutesE Uzbekistan 
+Tegucigalpa	14degree06minutesN 87degree13minutesW Honduras 
+Tehran	35degree42minutesN 51degree25minutesE Iran 
+Tel Aviv 	32degree04minutesN 34degree47minutesE Israel  
+Thessaloniki	40degree39minutesN 22degree54minutesE Greece 
+Tezpur	26degree38minutesN 92degree48minutesE India 
+The Hague 	52degree05minutesN 4degree19minutesE Netherlands  
+The Valley 	18degree13minutesN 63degree03minutesW United Kingdom  
+Thunder Bay 	48degree23minutesN 89degree15minutesW Canada  
+Thiès	14degree47minutesN 16degree55minutesW Senegal 
+Tianjin 	39degree08minutesN 117degree11minutesE People's Republic of China  
+Timbuktu	16degree47minutesN 3degree01minutesW Mali 
+Tijuana	32degree32minutesN 117degree02minutesW Mexico 
+Trelew	43degree15minutesS 65degree18minutesW Argentina 
+Townsville	19degree15minutesS 146degree49minutesE Australia 
+Toronto	43degree42minutesN 79degree24minutesW Canada 
+Tornio	65degree51minutesN 24degree09minutesE Finland 
+Tokyo	35degree41minutesN 139degree42minutesE Japan 
+Tiraspol	46degree51minutesN 29degree38minutesE Moldova 
+Tolyatti	53degree31minutesN 49degree25minutesE Russia 
+Toulouse	43degree36minutesN 1degree27minutesE France 
+Torreón	25degree32minutesN 103degree27minutesW Mexico 
+Ushuaia	54degree48minutesS 68degree18minutesW Argentina 
+Uberlândia	18degree55minutesS 48degree17minutesW Brazil 
+Tuktoyaktuk	69degree27minutesN 133degree02minutesW Canada 
+Tskhinvali	42degree14minutesN 43degree58minutesE Georgia 
+Trivandrum	8degree29minutesN 76degree57minutesE India 
+Tripoli	32degree54minutesN 13degree11minutesE Libya 
+Trenton 	40degree13minutesN 74degree46minutesW United States  
+Trondheim	63degree26minutesN 10degree24minutesE Norway 
+Tromsø	69degree41minutesN 18degree57minutesE Norway 
+Trujillo	8degree07minutesS 79degree02minutesW Peru 
+Tucson 	32degree13minutesN 110degree56minutesW United States  
+Tórshavn	62degree01minutesN 6degree46minutesW Denmark 
+Turku	60degree27minutesN 22degree16minutesE Finland 
+Turin	45degree04minutesN 7degree42minutesE Italy 
+Tunis	36degree48minutesN 10degree11minutesE Tunisia 
+Tulsa 	36degree08minutesN 95degree56minutesW United States  
+Upernavik	72degree47minutesN 56degree09minutesW Denmark 
+Ulaanbaatar	47degree55minutesN 106degree55minutesE Mongolia 
+Ufa	54degree45minutesN 55degree58minutesE Russia 
+Udon Thani 	17degree25minutesN 102degree45minutesE Thailand  
+Umeå	63degree50minutesN 20degree16minutesE Sweden 
+Uppsala	59degree51minutesN 17degree39minutesE Sweden 
+Yerevan	40degree11minutesN 44degree31minutesE Armenia 
+Wollongong	34degree26minutesS 150degree53minutesE Australia 
+Vienna	48degree13minutesN 16degree22minutesE Austria 
+Victoria	48degree26minutesN 123degree22minutesW Canada 
+Vancouver	49degree15minutesN 123degree06minutesW Canada 
+Valparaíso	33degree03minutesS 71degree37minutesW Chile 
+Valdivia	39degree49minutesS 73degree15minutesW Chile 
+Vaasa	63degree06minutesN 21degree37minutesE Finland 
+Utsjoki	69degree54minutesN 27degree01minutesE Finland 
+Utrecht	52degree06minutesN 5degree07minutesE Netherlands 
+Vaduz	47degree08minutesN 9degree31minutesE Liechtenstein 
+Vadsø	70degree05minutesN 29degree44minutesE Norway 
+Valletta	35degree54minutesN 14degree31minutesE Malta 
+Valencia	39degree28minutesN 0degree23minutesW Spain 
+Vantaa	60degree18minutesN 25degree02minutesE Finland 
+Venice	45degree26minutesN 12degree20minutesE Italy 
+Vatican City 	41degree54minutesN 12degree27minutesE Vatican City  
+Veracruz	19degree11minutesN 96degree09minutesW Mexico 
+Verkhoyansk	67degree33minutesN 133degree23minutesE Russia 
+Vitória	20degree19minutesS 40degree20minutesW Brazil 
+Visakhapatnam	17degree41minutesN 83degree13minutesE India 
+Vientiane	17degree58minutesN 102degree36minutesE Laos 
+Vilnius	54degree41minutesN 25degree17minutesE Lithuania 
+Virginia Beach 	36degree51minutesN 75degree59minutesW United States  
+Windsor	42degree17minutesN 83degree00minutesW Canada 
+Whitehorse	60degree43minutesN 135degree03minutesW Canada 
+Weno 	7degree27minutesN 151degree51minutesE Federated States of Micronesia  
+Wellington 	41degree17minutesS 174degree47minutesE New Zealand  
+Warsaw	52degree14minutesN 21degree01minutesE Poland 
+Vladivostok	43degree08minutesN 131degree54minutesE Russia 
+Volgograd	48degree42minutesN 44degree31minutesE Russia 
+Voronezh	51degree40minutesN 39degree13minutesE Russia 
+Washington 	38degree54minutesN 77degree02minutesW United States  
+Windhoek	22degree34minutesS 17degree05minutesE Namibia 
+Willemstad	12degree07minutesN 68degree56minutesW Netherlands 
+Wichita 	37degree41minutesN 97degree20minutesW United States  
+Wilmington 	34degree13minutesN 77degree55minutesW United States  
+Winnipeg	49degree54minutesN 97degree08minutesW Canada 
+Yaoundé	3degree52minutesN 11degree31minutesE Cameroon 
+Yamoussoukro 	6degree49minutesN 5degree17minutesW Ivory Coast  
+Wonsan 	39degree09minutesN 127degree27minutesE North Korea  
+Wuhan 	30degree35minutesN 114degree17minutesE People's Republic of China  
+Xi'an 	34degree16minutesN 108degree54minutesE People's Republic of China  
+Xining 	36degree38minutesN 101degree46minutesE People's Republic of China  
+Yakutsk	62degree02minutesN 129degree44minutesE Russia 
+Yangon	16degree48minutesN 96degree09minutesE Myanmar 
+Yarmouth	43degree50minutesN 66degree07minutesW Canada 
+Yaren District 	0degree33minutesS 166degree55minutesE Nauru  
+Yellowknife	62degree27minutesN 114degree24minutesW Canada 
+Yekaterinburg	56degree50minutesN 60degree35minutesE Russia 
+Yaroslavl	57degree37minutesN 39degree51minutesE Russia 
+Zagreb	45degree49minutesN 15degree59minutesE Croatia 
+Yogyakarta	7degree48minutesS 110degree22minutesE Indonesia 
+Yokohama	35degree27minutesN 139degree38minutesE Japan 
+Ísafjörður	66degree05minutesN 23degree08minutesW Iceland 
+Zapopan	20degree43minutesN 103degree24minutesW Mexico 
+Zamboanga City 	6degree54minutesN 122degree04minutesE Philippines  
+Zanzibar City 	6degree10minutesS 39degree12minutesE Tanzania  
+Zhengzhou 	34degree46minutesN 113degree39minutesE People's Republic of China  
+Zaragoza	41degree39minutesN 0degree53minutesW Spain 
+Zürich	47degree22minutesN 8degree33minutesE Switzerland 
+Ürümqi 	43degree50minutesN 87degree36minutesE People's Republic of China  
+Östersund	63degree11minutesN 14degree40minutesE Sweden 
+Örnsköldsvik	63degree17minutesN 18degree44minutesE Sweden 
+İzmir	38degree26minutesN 27degree09minutesE Turkey 

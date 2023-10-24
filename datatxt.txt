@@ -1,0 +1,952 @@
+No. City Latitude Longitude Country
+1 Kandahar 31degree37minutesN 65degree43minutesE Afghanistan
+2 Kabul 34degree32minutesN 69degree10minutesE Afghanistan
+3 Tirana 41degree20minutesN 19degree49minutesE Albania
+4 Tiaret 35degree22minutesN 1degree19minutesE Algeria
+5 Algiers 36degree46minutesN 3degree13minutesE Algeria
+6 Andorra la Vella 42degree30minutesN 1degree30minutesE Andorra
+7 Huambo 12degree46minutesS 15degree44minutesE Angola
+8 Luanda 8degree50minutesS 13degree14minutesE Angola
+9 St. John's 17degree07minutesN 61degree51minutesW Antigua and Barbuda
+10 Salta 24degree47minutesS 65degree25minutesW Argentina
+11 San Miguel de Tucumán 26degree49minutesS 65degree13minutesW Argentina
+12 Córdoba 31degree25minutesS 64degree11minutesW Argentina
+13 Mendoza 32degree53minutesS 68degree49minutesW Argentina
+14 Rosario 32degree57minutesS 60degree40minutesW Argentina
+15 Buenos Aires 34degree36minutesS 58degree23minutesW Argentina
+16 Bahía Blanca 38degree43minutesS 62degree16minutesW Argentina
+17 San Carlos de Bariloche 41degree09minutesS 71degree18minutesW Argentina
+18 Trelew 43degree15minutesS 65degree18minutesW Argentina
+19 Comodoro Rivadavia 45degree52minutesS 67degree29minutesW Argentina
+20 Río Gallegos 51degree38minutesS 69degree13minutesW Argentina
+21 Ushuaia 54degree48minutesS 68degree18minutesW Argentina
+22 Yerevan 40degree11minutesN 44degree31minutesE Armenia
+23 Darwin 12degree27minutesS 130degree50minutesE Australia
+24 Cairns 16degree56minutesS 145degree47minutesE Australia
+25 Townsville 19degree15minutesS 146degree49minutesE Australia
+26 Port Hedland 20degree19minutesS 118degree36minutesE Australia
+27 Rockhampton 23degree23minutesS 150degree31minutesE Australia
+28 Brisbane 27degree28minutesS 153degree02minutesE Australia
+29 Gold Coast 28degree01minutesS 153degree24minutesE Australia
+30 Kingston 29degree04minutesS 167degree58minutesE Australia
+31 Perth 31degree57minutesS 115degree52minutesE Australia
+32 Mandurah 32degree32minutesS 115degree43minutesE Australia
+33 Newcastle 32degree55minutesS 151degree45minutesE Australia
+34 Sydney 33degree52minutesS 151degree13minutesE Australia
+35 Wollongong 34degree26minutesS 150degree53minutesE Australia
+36 Adelaide 34degree56minutesS 138degree36minutesE Australia
+37 Canberra 35degree18minutesS 149degree07minutesE Australia
+38 Melbourne 37degree49minutesS 144degree58minutesE Australia
+39 Geelong 38degree09minutesS 144degree21minutesE Australia
+40 Hobart 42degree53minutesS 147degree20minutesE Australia
+41 Graz 47degree04minutesN 15degree26minutesE Austria
+42 Innsbruck 47degree16minutesN 11degree23minutesE Austria
+43 Salzburg 47degree48minutesN 13degree02minutesE Austria
+44 Vienna 48degree13minutesN 16degree22minutesE Austria
+45 Linz 48degree18minutesN 14degree17minutesE Austria
+46 Stepanakert 39degree49minutesN 46degree45minutesE Azerbaijan
+47 Baku 40degree24minutesN 49degree53minutesE Azerbaijan
+48 Nassau 25degree04minutesN 77degree20minutesW Bahamas
+49 Manama 26degree13minutesN 50degree35minutesE Bahrain
+50 Chittagong 22degree22minutesN 91degree48minutesE Bangladesh
+51 Dhaka 23degree42minutesN 90degree23minutesE Bangladesh
+52 Bridgetown 13degree06minutesN 59degree37minutesW Barbados
+53 Minsk 53degree54minutesN 27degree34minutesE Belarus
+54 Charleroi 50degree24minutesN 4degree26minutesE Belgium
+55 Brussels 50degree51minutesN 4degree21minutesE Belgium
+56 Ghent 51degree03minutesN 3degree44minutesE Belgium
+57 Antwerp 51degree13minutesN 4degree24minutesE Belgium
+58 Belmopan 17degree15minutesN 88degree46minutesW Belize
+59 Belize City 17degree30minutesN 88degree11minutesW Belize
+60 Cotonou 6degree22minutesN 2degree26minutesE Benin
+61 Porto-Novo 6degree30minutesN 2degree36minutesE Benin
+62 Thimphu 27degree28minutesN 89degree39minutesE Bhutan
+63 La Paz 16degree30minutesS 68degree09minutesW Bolivia
+64 Santa Cruz de la Sierra 17degree48minutesS 63degree10minutesW Bolivia
+65 Sucre 19degree03minutesS 65degree15minutesW Bolivia
+66 Sarajevo 43degree51minutesN 18degree21minutesE Bosnia and Herzegovina
+67 Francistown 21degree10minutesS 27degree31minutesE Botswana
+68 Gaborone 24degree39minutesS 25degree55minutesE Botswana
+69 Macapá 0degree02minutesN 51degree04minutesW Brazil
+70 Belém 1degree27minutesS 48degree30minutesW Brazil
+71 Palmas 10degree11minutesS 48degree20minutesW Brazil
+72 Aracaju 10degree55minutesS 37degree03minutesW Brazil
+73 Sinop 11degree51minutesS 55degree39minutesW Brazil
+74 Salvador 12degree58minutesS 38degree29minutesW Brazil
+75 Ilhéus 14degree47minutesS 39degree03minutesW Brazil
+76 Cuiabá 15degree36minutesS 56degree06minutesW Brazil
+77 Brasília 15degree48minutesS 47degree52minutesW Brazil
+78 Goiânia 16degree40minutesS 49degree15minutesW Brazil
+79 Governador Valadares 18degree51minutesS 41degree56minutesW Brazil
+80 Uberlândia 18degree55minutesS 48degree17minutesW Brazil
+81 Belo Horizonte 19degree55minutesS 43degree56minutesW Brazil
+82 São Luís 2degree32minutesS 44degree18minutesW Brazil
+83 Boa Vista 2degree49minutesN 60degree40minutesW Brazil
+84 Vitória 20degree19minutesS 40degree20minutesW Brazil
+85 Campo Grande 20degree28minutesS 54degree37minutesW Brazil
+86 São José do Rio Preto 20degree48minutesS 49degree23minutesW Brazil
+87 Ribeirão Preto 21degree11minutesS 47degree48minutesW Brazil
+88 Juiz de Fora 21degree46minutesS 43degree21minutesW Brazil
+89 Poços de Caldas 21degree47minutesS 46degree34minutesW Brazil
+90 Araraquara 21degree48minutesS 48degree11minutesW Brazil
+91 Bauru 22degree19minutesS 49degree04minutesW Brazil
+92 Assis 22degree40minutesS 50degree25minutesW Brazil
+93 Campinas 22degree54minutesS 47degree03minutesW Brazil
+94 Rio de Janeiro 22degree55minutesS 43degree12minutesW Brazil
+95 São José dos Campos 23degree11minutesS 45degree53minutesW Brazil
+96 São Paulo 23degree33minutesS 46degree38minutesW Brazil
+97 Curitiba 25degree25minutesS 49degree15minutesW Brazil
+98 Florianópolis 27degree50minutesS 48degree25minutesW Brazil
+99 Manaus 3degree06minutesS 60degree01minutesW Brazil
+100 Sobral 3degree40minutesS 40degree14minutesW Brazil
+101 Fortaleza 3degree43minutesS 38degree33minutesW Brazil
+102 Fernando de Noronha 3degree51minutesS 32degree25minutesW Brazil
+103 Porto Alegre 30degree02minutesS 51degree14minutesW Brazil
+104 Pelotas 31degree46minutesS 52degree21minutesW Brazil
+105 Chuí 33degree41minutesS 53degree27minutesW Brazil
+106 Teresina 5degree06minutesS 42degree48minutesW Brazil
+107 Imperatriz 5degree32minutesS 47degree29minutesW Brazil
+108 Natal 5degree47minutesS 35degree12minutesW Brazil
+109 João Pessoa 7degree05minutesS 34degree50minutesW Brazil
+110 Juazeiro do Norte 7degree12minutesS 39degree20minutesW Brazil
+111 Campina Grande 7degree14minutesS 35degree53minutesW Brazil
+112 Recife 8degree03minutesS 34degree54minutesW Brazil
+113 Caruaru 8degree17minutesS 35degree59minutesW Brazil
+114 Porto Velho 8degree46minutesS 63degree54minutesW Brazil
+115 Garanhuns 8degree53minutesS 36degree30minutesW Brazil
+116 Petrolina 9degree24minutesS 40degree30minutesW Brazil
+117 Maceió 9degree40minutesS 35degree44minutesW Brazil
+118 Rio Branco 9degree58minutesS 67degree49minutesW Brazil
+119 Bandar Seri Begawan 4degree53minutesN 114degree57minutesE Brunei
+120 Sofia 42degree42minutesN 23degree20minutesE Bulgaria
+121 Bobo-Dioulasso 11degree11minutesN 4degree17minutesW Burkina Faso
+122 Ouagadougou 12degree21minutesN 1degree32minutesW Burkina Faso
+123 Bujumbura 3degree23minutesS 29degree22minutesE Burundi
+124 Phnom Penh 11degree33minutesN 104degree55minutesE Cambodia
+125 Siem Reap 13degree22minutesN 103degree52minutesE Cambodia
+126 Yaoundé 3degree52minutesN 11degree31minutesE Cameroon
+127 Douala 4degree03minutesN 9degree42minutesE Cameroon
+128 Windsor 42degree17minutesN 83degree00minutesW Canada
+129 Toronto 43degree42minutesN 79degree24minutesW Canada
+130 Yarmouth 43degree50minutesN 66degree07minutesW Canada
+131 Halifax 44degree51minutesN 63degree12minutesW Canada
+132 Saint John 45degree17minutesN 66degree05minutesW Canada
+133 Ottawa 45degree25minutesN 75degree41minutesW Canada
+134 Montreal 45degree30minutesN 73degree34minutesW Canada
+135 Fredericton 45degree57minutesN 66degree40minutesW Canada
+136 Moncton 46degree08minutesN 64degree46minutesW Canada
+137 Charlottetown 46degree14minutesN 63degree09minutesW Canada
+138 North Bay 46degree18minutesN 79degree27minutesW Canada
+139 Sudbury 46degree29minutesN 81degree01minutesW Canada
+140 Sault Ste. Marie 46degree32minutesN 84degree21minutesW Canada
+141 Quebec City 46degree49minutesN 71degree13minutesW Canada
+142 St. John's 47degree34minutesN 52degree42minutesW Canada
+143 Thunder Bay 48degree23minutesN 89degree15minutesW Canada
+144 Victoria 48degree26minutesN 123degree22minutesW Canada
+145 Vancouver 49degree15minutesN 123degree06minutesW Canada
+146 Kelowna 49degree53minutesN 119degree30minutesW Canada
+147 Winnipeg 49degree54minutesN 97degree08minutesW Canada
+148 Regina 50degree27minutesN 104degree36minutesW Canada
+149 Kamloops 50degree41minutesN 120degree20minutesW Canada
+150 Calgary 51degree03minutesN 114degree04minutesW Canada
+151 Saskatoon 52degree08minutesN 106degree41minutesW Canada
+152 Edmonton 53degree32minutesN 113degree30minutesW Canada
+153 Grande Prairie 55degree10minutesN 118degree48minutesW Canada
+154 Fort McMurray 56degree44minutesN 111degree23minutesW Canada
+155 Whitehorse 60degree43minutesN 135degree03minutesW Canada
+156 Yellowknife 62degree27minutesN 114degree24minutesW Canada
+157 Iqaluit 63degree45minutesN 68degree31minutesW Canada
+158 Tuktoyaktuk 69degree27minutesN 133degree02minutesW Canada
+159 Grise Fiord 76degree25minutesN 82degree54minutesW Canada
+160 Eureka 79degree59minutesN 85degree56minutesW Canada
+161 Alert 82degree30minutesN 62degree20minutesW Canada
+162 Praia 14degree55minutesN 23degree31minutesW Cape Verde
+163 Bangui 4degree22minutesN 18degree35minutesE Central African Republic
+164 N'Djamena 12degree07minutesN 15degree03minutesE Chad
+165 Moundou 8degree34minutesN 16degree05minutesE Chad
+166 Arica 18degree29minutesS 70degree20minutesW Chile
+167 Iquique 20degree13minutesS 70degree09minutesW Chile
+168 Calama 22degree28minutesS 68degree56minutesW Chile
+169 Antofagasta 23degree39minutesS 70degree24minutesW Chile
+170 Hanga Roa 27degree09minutesS 109degree26minutesW Chile
+171 Copiapó 27degree22minutesS 70degree20minutesW Chile
+172 La Serena 29degree54minutesS 71degree15minutesW Chile
+173 Valparaíso 33degree03minutesS 71degree37minutesW Chile
+174 Santiago 33degree27minutesS 70degree40minutesW Chile
+175 Concepción 36degree50minutesS 73degree03minutesW Chile
+176 Temuco 38degree45minutesS 72degree40minutesW Chile
+177 Valdivia 39degree49minutesS 73degree15minutesW Chile
+178 Puerto Montt 41degree28minutesS 72degree56minutesW Chile
+179 Puerto Aisén 45degree24minutesS 72degree41minutesW Chile
+180 Coihaique 45degree34minutesS 72degree04minutesW Chile
+181 Punta Arenas 53degree10minutesS 70degree56minutesW Chile
+182 Puerto Williams 54degree56minutesS 67degree37minutesW Chile
+183 Puerto Toro 55degree05minutesS 67degree05minutesW Chile
+184 Cartagena 10degree24minutesN 75degree30minutesW Colombia
+185 Barranquilla 10degree58minutesN 74degree48minutesW Colombia
+186 Santiago de Cali 3degree25minutesN 76degree31minutesW Colombia
+187 Bogotá 4degree36minutesN 74degree05minutesW Colombia
+188 Medellín 6degree14minutesN 75degree35minutesW Colombia
+189 Cúcuta 7degree54minutesN 72degree30minutesW Colombia
+190 Moroni 11degree45minutesS 43degree12minutesE Comoros
+191 Alajuela 10degree01minutesN 84degree13minutesW Costa Rica
+192 Liberia 10degree38minutesN 85degree26minutesW Costa Rica
+193 San José 9degree56minutesN 84degree05minutesW Costa Rica
+194 Puntarenas 9degree58minutesN 84degree50minutesW Costa Rica
+195 Limón 9degree59minutesN 83degree02minutesW Costa Rica
+196 Split 43degree30minutesN 16degree26minutesE Croatia
+197 Zagreb 45degree49minutesN 15degree59minutesE Croatia
+198 Santiago de Cuba 20degree01minutesN 75degree49minutesW Cuba
+199 Havana 23degree08minutesN 82degree23minutesW Cuba
+200 Nicosia 35degree10minutesN 33degree22minutesE Cyprus
+201 Prague 50degree05minutesN 14degree25minutesE Czech Republic
+202 Lubumbashi 11degree40minutesS 27degree28minutesE Democratic Republic of the Congo
+203 Kinshasa 4degree20minutesS 15degree19minutesE Democratic Republic of the Congo
+204 Odense 55degree24minutesN 10degree23minutesE Denmark
+205 Esbjerg 55degree29minutesN 8degree27minutesE Denmark
+206 Copenhagen 55degree41minutesN 12degree34minutesE Denmark
+207 Aarhus 56degree09minutesN 10degree13minutesE Denmark
+208 Qaqortoq 60degree43minutesN 46degree02minutesW Denmark
+209 Tórshavn 62degree01minutesN 6degree46minutesW Denmark
+210 Nuuk (Godthåb) 64degree11minutesN 51degree44minutesW Denmark
+211 Qaanaaq 7degree28minutesN 69degree14minutesW Denmark
+212 Upernavik 72degree47minutesN 56degree09minutesW Denmark
+213 Nord 81degree36minutesN 16degree40minutesW Denmark
+214 Djibouti 11degree35minutesN 43degree09minutesE Djibouti
+215 Roseau 15degree18minutesN 61degree23minutesW Dominica
+216 Santo Domingo 18degree28minutesN 69degree57minutesW Dominican Republic
+217 Quito 0degree15minutesS 78degree35minutesW Ecuador
+218 Guayaquil 2degree11minutesS 79degree53minutesW Ecuador
+219 Luxor 25degree41minutesN 32degree39minutesE Egypt
+220 Suez 29degree58minutesN 32degree33minutesE Egypt
+221 Cairo 30degree03minutesN 31degree14minutesE Egypt
+222 Alexandria 31degree12minutesN 29degree55minutesE Egypt
+223 Port Said 31degree15minutesN 32degree17minutesE Egypt
+224 San Salvador 13degree41minutesN 89degree11minutesW El Salvador
+225 Malabo 3degree45minutesN 8degree47minutesE Equatorial Guinea
+226 Asmara 15degree20minutesN 38degree56minutesE Eritrea
+227 Tartu 58degree23minutesN 26degree43minutesE Estonia
+228 Tallinn 59degree26minutesN 24degree45minutesE Estonia
+229 Addis Ababa 9degree02minutesN 38degree44minutesE Ethiopia
+230 Palikir 6degree55minutesN 158degree10minutesE Federated States of Micronesia
+231 Weno 7degree27minutesN 151degree51minutesE Federated States of Micronesia
+232 Labasa 16degree26minutesS 179degree22minutesE Fiji
+233 Rabi Island 16degree30minutesS 180degree00minutesW Fiji
+234 Suva 18degree08minutesS 178degree27minutesE Fiji
+235 Helsinki 60degree10minutesN 24degree56minutesE Finland
+236 Espoo 60degree12minutesN 24degree39minutesE Finland
+237 Vantaa 60degree18minutesN 25degree02minutesE Finland
+238 Turku 60degree27minutesN 22degree16minutesE Finland
+239 Lahti 60degree59minutesN 25degree39minutesE Finland
+240 Tampere 61degree30minutesN 23degree46minutesE Finland
+241 Jyväskylä 62degree15minutesN 25degree45minutesE Finland
+242 Kuopio 62degree54minutesN 27degree41minutesE Finland
+243 Vaasa 63degree06minutesN 21degree37minutesE Finland
+244 Oulu 65degree01minutesN 25degree28minutesE Finland
+245 Pudasjärvi 65degree22minutesN 27degree00minutesE Finland
+246 Kemi 65degree44minutesN 24degree34minutesE Finland
+247 Tornio 65degree51minutesN 24degree09minutesE Finland
+248 Kuusamo 65degree58minutesN 29degree11minutesE Finland
+249 Rovaniemi 66degree30minutesN 25degree44minutesE Finland
+250 Kemijärvi 66degree43minutesN 27degree26minutesE Finland
+251 Utsjoki 69degree54minutesN 27degree01minutesE Finland
+252 Nuorgam 70degree05minutesN 27degree53minutesE Finland
+253 Mamoudzou 12degree47minutesS 45degree14minutesE France
+254 Mata-Utu 13degree17minutesS 176degree11minutesW France
+255 Fort-de-France 14degree36minutesN 61degree05minutesW France
+256 Basse-Terre 16degree00minutesN 61degree44minutesW France
+257 Papeete 17degree32minutesS 149degree34minutesW France
+258 Saint-Denis 20degree53minutesS 55degree27minutesE France
+259 Nouméa 22degree17minutesS 166degree27minutesE France
+260 Cayenne 4degree55minutesN 52degree20minutesW France
+261 Marseille 43degree18minutesN 5degree22minutesE France
+262 Cannes 43degree33minutesN 7degree01minutesE France
+263 Toulouse 43degree36minutesN 1degree27minutesE France
+264 Nice 43degree42minutesN 7degree16minutesE France
+265 Bordeaux 44degree50minutesN 0degree35minutesW France
+266 Lyon 45degree46minutesN 4degree51minutesE France
+267 Saint-Pierre 46degree47minutesN 56degree11minutesW France
+268 Nantes 47degree13minutesN 1degree33minutesW France
+269 Orléans 47degree54minutesN 1degree55minutesE France
+270 Brest 48degree23minutesN 4degree29minutesW France
+271 Strasbourg 48degree35minutesN 7degree45minutesE France
+272 Paris 48degree51minutesN 2degree21minutesE France
+273 Rouen 49degree26minutesN 1degree06minutesE France
+274 Le Havre 49degree29minutesN 0degree06minutesE France
+275 Calais 50degree57minutesN 1degree51minutesE France
+276 Libreville 0degree23minutesN 9degree27minutesE Gabon
+277 Brikama 13degree16minutesN 16degree39minutesW Gambia
+278 Serekunda 13degree26minutesN 16degree40minutesW Gambia
+279 Banjul 13degree27minutesN 16degree35minutesW Gambia
+280 Tbilisi 41degree43minutesN 44degree47minutesE Georgia
+281 Tskhinvali 42degree14minutesN 43degree58minutesE Georgia
+282 Sukhumi 43degree00minutesN 41degree01minutesE Georgia
+283 Munich 48degree08minutesN 11degree34minutesE Germany
+284 Stuttgart 48degree47minutesN 9degree11minutesE Germany
+285 Frankfurt am Main 50degree07minutesN 8degree41minutesE Germany
+286 Cologne 50degree56minutesN 6degree58minutesE Germany
+287 Dresden 51degree02minutesN 13degree44minutesE Germany
+288 Düsseldorf 51degree14minutesN 6degree47minutesE Germany
+289 Leipzig 51degree20minutesN 12degree23minutesE Germany
+290 Hannover 52degree22minutesN 9degree43minutesE Germany
+291 Berlin 52degree31minutesN 13degree23minutesE Germany
+292 Bremen 53degree05minutesN 8degree48minutesE Germany
+293 Hamburg 53degree34minutesN 10degree00minutesE Germany
+294 Kiel 54degree20minutesN 10degree08minutesE Germany
+295 Sekondi-Takoradi 4degree55minutesN 1degree46minutesW Ghana
+296 Accra 5degree33minutesN 0degree12minutesW Ghana
+297 Kumasi 6degree40minutesN 1degree37minutesW Ghana
+298 Tamale 9degree24minutesN 0degree51minutesW Ghana
+299 Heraklion 35degree20minutesN 25degree08minutesE Greece
+300 Athena 37degree58minutesN 23degree43minutesE Greece
+301 Halkida 38degree28minutesN 23degree36minutesE Greece
+302 Thessaloniki 40degree39minutesN 22degree54minutesE Greece
+303 St. George's 12degree03minutesN 61degree45minutesW Grenada
+304 Guatemala City 14degree37minutesN 90degree32minutesW Guatemala
+305 Quetzaltenango 14degree50minutesN 91degree31minutesW Guatemala
+306 Nzérékoré 7degree45minutesN 8degree49minutesW Guinea
+307 Conakry 9degree31minutesN 13degree43minutesW Guinea
+308 Bissau 11degree51minutesN 15degree34minutesW Guinea-Bissau
+309 Georgetown 6degree48minutesN 58degree10minutesW Guyana
+310 Port-au-Prince 18degree32minutesN 72degree20minutesW Haiti
+311 Tegucigalpa 14degree06minutesN 87degree13minutesW Honduras
+312 Budapest 47degree28minutesN 19degree03minutesE Hungary
+313 Reykjavík 64degree08minutesN 21degree56minutesW Iceland
+314 Akureyri 65degree41minutesN 18degree06minutesW Iceland
+315 Ísafjörður 66degree05minutesN 23degree08minutesW Iceland
+316 Port Blair 11degree40minutesN 92degree46minutesE India
+317 Bangalore 12degree58minutesN 77degree34minutesE India
+318 Chennai (Madras) 13degree05minutesN 80degree16minutesE India
+319 Hyderabad 17degree22minutesN 78degree29minutesE India
+320 Visakhapatnam 17degree41minutesN 83degree13minutesE India
+321 Pune 18degree31minutesN 73degree51minutesE India
+322 Mumbai (Bombay) 18degree59minutesN 72degree50minutesE India
+323 Nagpur 21degree08minutesN 79degree05minutesE India
+324 Surat 21degree10minutesN 72degree50minutesE India
+325 Kolkata (Calcutta) 22degree34minutesN 88degree22minutesE India
+326 Ahmedabad 23degree02minutesN 72degree35minutesE India
+327 Agartala 23degree50minutesN 91degree16minutesE India
+328 Kulpahar 25degree19minutesN 79degree38minutesE India
+329 Shillong 25degree34minutesN 91degree53minutesE India
+330 Patna 25degree37minutesN 85degree09minutesE India
+331 Guwahati 26degree11minutesN 91degree44minutesE India
+332 Kanpur 26degree28minutesN 80degree20minutesE India
+333 Tezpur 26degree38minutesN 92degree48minutesE India
+334 Siliguri 26degree43minutesN 88degree26minutesE India
+335 Lucknow 26degree51minutesN 80degree57minutesE India
+336 Jaipur 26degree56minutesN 75degree49minutesE India
+337 Agra 27degree11minutesN 78degree01minutesE India
+338 Gangtok 27degree20minutesN 88degree37minutesE India
+339 Dibrugarh 27degree29minutesN 95degree00minutesE India
+340 New Delhi 28degree37minutesN 77degree13minutesE India
+341 Chandigarh 30degree45minutesN 76degree47minutesE India
+342 Ludhiana 30degree55minutesN 75degree51minutesE India
+343 Shimla 31degree06minutesN 77degree10minutesE India
+344 Amritsar 31degree38minutesN 74degree52minutesE India
+345 Srinagar 34degree05minutesN 74degree47minutesE India
+346 Trivandrum 8degree29minutesN 76degree57minutesE India
+347 Kochi 9degree58minutesN 76degree17minutesE India
+348 Pontianak 0degree01minutesS 109degree20minutesE Indonesia
+349 Pekanbaru 0degree32minutesN 101degree27minutesE Indonesia
+350 Padang 0degree57minutesS 100degree21minutesE Indonesia
+351 Balikpapan 1degree16minutesS 116degree50minutesE Indonesia
+352 Jayapura 2degree32minutesS 140degree43minutesE Indonesia
+353 Palembang 2degree59minutesS 104degree45minutesE Indonesia
+354 Medan 3degree35minutesN 98degree40minutesE Indonesia
+355 Ambon 3degree42minutesS 128degree10minutesE Indonesia
+356 Makassar 5degree08minutesS 119degree25minutesE Indonesia
+357 Banda Aceh 5degree33minutesN 95degree19minutesE Indonesia
+358 Jakarta 6degree12minutesS 106degree48minutesE Indonesia
+359 Bogor 6degree36minutesS 106degree48minutesE Indonesia
+360 Bandung 6degree55minutesS 107degree37minutesE Indonesia
+361 Semarang 6degree58minutesS 110degree25minutesE Indonesia
+362 Surabaya 7degree16minutesS 112degree45minutesE Indonesia
+363 Yogyakarta 7degree48minutesS 110degree22minutesE Indonesia
+364 Malang 7degree59minutesS 112degree37minutesE Indonesia
+365 Denpasar 8degree39minutesS 115degree13minutesE Indonesia
+366 Isfahan 32degree38minutesN 51degree39minutesE Iran
+367 Tehran 35degree42minutesN 51degree25minutesE Iran
+368 Mashhad 36degree18minutesN 59degree36minutesE Iran
+369 Tabriz 38degree04minutesN 46degree18minutesE Iran
+370 Basra 30degree30minutesN 47degree49minutesE Iraq
+371 Baghdad 33degree20minutesN 44degree26minutesE Iraq
+372 Kirkuk 35degree28minutesN 44degree19minutesE Iraq
+373 Erbil 36degree11minutesN 44degree01minutesE Iraq
+374 Mosul 36degree20minutesN 43degree08minutesE Iraq
+375 Cork 51degree54minutesN 8degree28minutesW Ireland
+376 Dublin 53degree21minutesN 6degree16minutesW Ireland
+377 Eilat 29degree33minutesN 34degree57minutesE Israel
+378 Jerusalem 31degree47minutesN 35degree13minutesE Israel
+379 Tel Aviv 32degree04minutesN 34degree47minutesE Israel
+380 Catania 37degree30minutesN 15degree05minutesE Italy
+381 Palermo 38degree07minutesN 13degree22minutesE Italy
+382 Messina 38degree11minutesN 15degree33minutesE Italy
+383 Cagliari 39degree15minutesN 9degree03minutesE Italy
+384 Naples 40degree51minutesN 14degree16minutesE Italy
+385 Rome 41degree54minutesN 12degree30minutesE Italy
+386 Florence 43degree47minutesN 11degree15minutesE Italy
+387 Bologna 44degree30minutesN 11degree21minutesE Italy
+388 Turin 45degree04minutesN 7degree42minutesE Italy
+389 Venice 45degree26minutesN 12degree20minutesE Italy
+390 Milan 45degree28minutesN 9degree11minutesE Italy
+391 Abidjan 5degree19minutesN 4degree02minutesW Ivory Coast
+392 Yamoussoukro 6degree49minutesN 5degree17minutesW Ivory Coast
+393 Kingston 17degree59minutesN 76degree48minutesW Jamaica
+394 Naha 26degree13minutesN 127degree41minutesE Japan
+395 Fukuoka 33degree35minutesN 130degree24minutesE Japan
+396 Hiroshima 34degree23minutesN 132degree27minutesE Japan
+397 Kōbe 34degree41minutesN 135degree12minutesE Japan
+398 Osaka 34degree42minutesN 135degree30minutesE Japan
+399 Kyoto 35degree01minutesN 135degree46minutesE Japan
+400 Nagoya 35degree11minutesN 136degree54minutesE Japan
+401 Yokohama 35degree27minutesN 139degree38minutesE Japan
+402 Kawasaki 35degree31minutesN 139degree42minutesE Japan
+403 Tokyo 35degree41minutesN 139degree42minutesE Japan
+404 Sendai 38degree16minutesN 140degree52minutesE Japan
+405 Sapporo 43degree04minutesN 141degree21minutesE Japan
+406 Nemuro 43degree20minutesN 145degree35minutesE Japan
+407 Amman 31degree56minutesN 35degree56minutesE Jordan
+408 Almaty 43degree17minutesN 76degree54minutesE Kazakhstan
+409 Astana 51degree10minutesN 71degree26minutesE Kazakhstan
+410 Nairobi 1degree17minutesS 36degree49minutesE Kenya
+411 Mombasa 4degree03minutesS 39degree40minutesE Kenya
+412 South Tarawa 1degree26minutesN 173degree00minutesE Kiribati
+413 Kuwait City 29degree22minutesN 47degree59minutesE Kuwait
+414 Bishkek 42degree52minutesN 74degree37minutesE Kyrgyzstan
+415 Vientiane 17degree58minutesN 102degree36minutesE Laos
+416 Riga 56degree57minutesN 24degree06minutesE Latvia
+417 Beirut 33degree53minutesN 35degree31minutesE Lebanon
+418 Maseru 29degree19minutesS 27degree29minutesE Lesotho
+419 Monrovia 6degree19minutesN 10degree48minutesW Liberia
+420 Sabha 27degree02minutesN 14degree26minutesE Libya
+421 Benghazi 32degree07minutesN 20degree04minutesE Libya
+422 Tripoli 32degree54minutesN 13degree11minutesE Libya
+423 Vaduz 47degree08minutesN 9degree31minutesE Liechtenstein
+424 Vilnius 54degree41minutesN 25degree17minutesE Lithuania
+425 Luxembourg 49degree37minutesN 6degree07minutesE Luxembourg
+426 Skopje 42degree00minutesN 21degree26minutesE Macedonia
+427 Antananarivo 18degree56minutesS 47degree31minutesE Madagascar
+428 Lilongwe 13degree59minutesS 33degree47minutesE Malawi
+429 Blantyre 15degree47minutesS 35degree00minutesE Malawi
+430 Johor Bahru 1degree29minutesN 103degree44minutesE Malaysia
+431 Kuching 1degree34minutesN 110degree21minutesE Malaysia
+432 Malacca Town 2degree12minutesN 102degree15minutesE Malaysia
+433 Kuala Lumpur 3degree09minutesN 101degree42minutesE Malaysia
+434 Miri 4degree24minutesN 114degree00minutesE Malaysia
+435 Ipoh 4degree36minutesN 101degree04minutesE Malaysia
+436 George Town 5degree25minutesN 100degree19minutesE Malaysia
+437 Kota Kinabalu 5degree58minutesN 116degree06minutesE Malaysia
+438 Alor Setar 6degree07minutesN 100degree22minutesE Malaysia
+439 Kota Bharu 6degree08minutesN 102degree15minutesE Malaysia
+440 Malé 4degree11minutesN 73degree31minutesE Maldives
+441 Bamako 12degree39minutesN 8degree00minutesW Mali
+442 Koulikoro 12degree52minutesN 7degree34minutesW Mali
+443 Timbuktu 16degree47minutesN 3degree01minutesW Mali
+444 Birkirkara 35degree54minutesN 14degree28minutesE Malta
+445 Valletta 35degree54minutesN 14degree31minutesE Malta
+446 Majuro 7degree04minutesN 171degree16minutesE Marshall Islands
+447 Nouakchott 18degree06minutesN 15degree57minutesW Mauritania
+448 Port Louis 20degree10minutesS 57degree30minutesE Mauritius
+449 Tapachula 14degree54minutesN 92degree16minutesW Mexico
+450 Acapulco 16degree52minutesN 99degree53minutesW Mexico
+451 Puebla 19degree03minutesN 98degree13minutesW Mexico
+452 Veracruz 19degree11minutesN 96degree09minutesW Mexico
+453 Mexico City 19degree26minutesN 99degree08minutesW Mexico
+454 Querétaro 20degree35minutesN 100degree24minutesW Mexico
+455 Guadalajara 20degree40minutesN 103degree21minutesW Mexico
+456 Puerto Vallarta 20degree40minutesN 105degree16minutesW Mexico
+457 Zapopan 20degree43minutesN 103degree24minutesW Mexico
+458 Mérida 20degree58minutesN 89degree37minutesW Mexico
+459 León 21degree07minutesN 101degree41minutesW Mexico
+460 Cancún 21degree10minutesN 86degree51minutesW Mexico
+461 Aguascalientes 21degree53minutesN 102degree18minutesW Mexico
+462 San Luis Potosí 22degree09minutesN 100degree51minutesW Mexico
+463 Tampico 22degree15minutesN 97degree52minutesW Mexico
+464 Cabo San Lucas 22degree53minutesN 109degree55minutesW Mexico
+465 Durango 24degree01minutesN 104degree40minutesW Mexico
+466 Culiacán 24degree48minutesN 107degree23minutesW Mexico
+467 Torreón 25degree32minutesN 103degree27minutesW Mexico
+468 Monterrey 25degree40minutesN 100degree18minutesW Mexico
+469 Chihuahua 28degree38minutesN 106degree05minutesW Mexico
+470 Hermosillo 29degree06minutesN 110degree57minutesW Mexico
+471 Ciudad Juárez 31degree44minutesN 106degree29minutesW Mexico
+472 Ensenada 31degree51minutesN 116degree36minutesW Mexico
+473 Tijuana 32degree32minutesN 117degree02minutesW Mexico
+474 Mexicali 32degree40minutesN 115degree28minutesW Mexico
+475 Tiraspol 46degree51minutesN 29degree38minutesE Moldova
+476 Chişinău 47degree00minutesN 28degree55minutesE Moldova
+477 Monaco 43degree44minutesN 7degree25minutesE Monaco
+478 Ulaanbaatar 47degree55minutesN 106degree55minutesE Mongolia
+479 Podgorica 42degree26minutesN 19degree16minutesE Montenegro
+480 El Aaiún 27degree09minutesN 13degree12minutesW Morocco
+481 Marrakech 31degree38minutesN 8degree01minutesW Morocco
+482 Casablanca 33degree32minutesN 7degree35minutesW Morocco
+483 Rabat 34degree02minutesN 6degree50minutesW Morocco
+484 Maputo 25degree58minutesS 32degree35minutesE Mozambique
+485 Yangon 16degree48minutesN 96degree09minutesE Myanmar
+486 Naypyidaw 19degree45minutesN 96degree06minutesE Myanmar
+487 Windhoek 22degree34minutesS 17degree05minutesE Namibia
+488 Yaren District 0degree33minutesS 166degree55minutesE Nauru
+489 Kathmandu 27degree42minutesN 85degree20minutesE Nepal
+490 Willemstad 12degree07minutesN 68degree56minutesW Netherlands
+491 Oranjestad 12degree31minutesN 70degree02minutesW Netherlands
+492 Maastricht 50degree51minutesN 5degree41minutesE Netherlands
+493 Rotterdam 51degree56minutesN 4degree29minutesE Netherlands
+494 The Hague 52degree05minutesN 4degree19minutesE Netherlands
+495 Utrecht 52degree06minutesN 5degree07minutesE Netherlands
+496 Leiden 52degree10minutesN 4degree29minutesE Netherlands
+497 Enschede 52degree13minutesN 6degree54minutesE Netherlands
+498 Amsterdam 52degree22minutesN 4degree54minutesE Netherlands
+499 Haarlem 52degree23minutesN 4degree38minutesE Netherlands
+500 Groningen 53degree13minutesN 6degree33minutesE Netherlands
+501 Alofi 19degree03minutesS 169degree55minutesW New Zealand
+502 Avarua 21degree12minutesS 159degree46minutesW New Zealand
+503 Auckland 36degree50minutesS 174degree44minutesE New Zealand
+504 Hamilton 37degree47minutesS 175degree17minutesE New Zealand
+505 Hastings 39degree39minutesS 176degree50minutesE New Zealand
+506 Nelson 41degree16minutesS 173degree17minutesE New Zealand
+507 Wellington 41degree17minutesS 174degree47minutesE New Zealand
+508 Christchurch 43degree32minutesS 172degree37minutesE New Zealand
+509 Dunedin 45degree52minutesS 170degree30minutesE New Zealand
+510 Invercargill 46degree25minutesS 168degree21minutesE New Zealand
+511 Managua 12degree08minutesN 86degree15minutesW Nicaragua
+512 Chinandega 12degree37minutesN 87degree09minutesW Nicaragua
+513 Niamey 13degree31minutesN 2degree06minutesE Niger
+514 Kano 12degree00minutesN 8degree31minutesE Nigeria
+515 Port Harcourt 4degree45minutesN 7degree00minutesE Nigeria
+516 Benin City 6degree19minutesN 5degree36minutesE Nigeria
+517 Enugu 6degree27minutesN 7degree31minutesE Nigeria
+518 Lagos 6degree27minutesN 3degree24minutesE Nigeria
+519 Ibadan 7degree24minutesN 3degree55minutesE Nigeria
+520 Abuja 9degree04minutesN 7degree29minutesE Nigeria
+521 Kaesong 37degree58minutesN 126degree33minutesE North Korea
+522 Pyongyang 39degree01minutesN 125degree44minutesE North Korea
+523 Wonsan 39degree09minutesN 127degree27minutesE North Korea
+524 Chongjin 41degree48minutesN 129degree47minutesE North Korea
+525 Kristiansand 58degree10minutesN 8degree00minutesE Norway
+526 Sarpsborg 59degree17minutesN 11degree12minutesE Norway
+527 Oslo 59degree57minutesN 10degree45minutesE Norway
+528 Bergen 60degree23minutesN 5degree20minutesE Norway
+529 Lillehammer 61degree08minutesN 10degree26minutesE Norway
+530 Trondheim 63degree26minutesN 10degree24minutesE Norway
+531 Stjørdal 63degree29minutesN 11degree10minutesE Norway
+532 Bodø 67degree18minutesN 14degree33minutesE Norway
+533 Narvik 68degree25minutesN 17degree34minutesE Norway
+534 Tromsø 69degree41minutesN 18degree57minutesE Norway
+535 Vadsø 70degree05minutesN 29degree44minutesE Norway
+536 Hammerfest 70degree40minutesN 23degree41minutesE Norway
+537 Longyearbyen 78degree13minutesN 15degree39minutesE Norway
+538 Ny-Ålesund 78degree55minutesN 11degree56minutesE Norway
+539 Salalah 17degree01minutesN 54degree05minutesE Oman
+540 Muscat 23degree37minutesN 58degree36minutesE Oman
+541 Karachi 24degree52minutesN 67degree01minutesE Pakistan
+542 Hyderabad 25degree23minutesN 68degree22minutesE Pakistan
+543 Multan 30degree12minutesN 71degree28minutesE Pakistan
+544 Faisalabad 31degree25minutesN 73degree05minutesE Pakistan
+545 Lahore 31degree33minutesN 74degree21minutesE Pakistan
+546 Rawalpindi 33degree36minutesN 73degree02minutesE Pakistan
+547 Islamabad 33degree43minutesN 73degree04minutesE Pakistan
+548 Peshawar 34degree01minutesN 71degree35minutesE Pakistan
+549 Koror City 7degree22minutesN 134degree29minutesE Palau
+550 Melekeok 7degree29minutesN 134degree36minutesE Palau
+551 Ngerulmud 7degree30'2minutesN 134degree36'2minutesE Palau
+552 Gaza 31degree31minutesN 34degree27minutesE Palestine
+553 Panama City 8degree59minutesN 79degree31minutesW Panama
+554 Port Moresby 9degree31minutesS 147degree13minutesE Papua New Guinea
+555 Asunción 25degree17minutesS 57degree38minutesW Paraguay
+556 Ciudad del Este 25degree31minutesS 54degree37minutesW Paraguay
+557 Macau 22degree10minutesN 113degree33minutesE People's Republic of China
+558 Hong Kong 22degree17minutesN 114degree10minutesE People's Republic of China
+559 Shenzhen 22degree33minutesN 114degree06minutesE People's Republic of China
+560 Nanning 22degree49minutesN 108degree19minutesE People's Republic of China
+561 Dongguan 23degree02minutesN 113degree43minutesE People's Republic of China
+562 Guangzhou 23degree08minutesN 113degree16minutesE People's Republic of China
+563 Kunming 25degree04minutesN 102degree41minutesE People's Republic of China
+564 Shigatse 29degree16minutesN 88degree53minutesE People's Republic of China
+565 Chongqing 29degree34minutesN 106degree34minutesE People's Republic of China
+566 Lhasa 29degree39minutesN 91degree06minutesE People's Republic of China
+567 Hangzhou 30degree15minutesN 120degree10minutesE People's Republic of China
+568 Wuhan 30degree35minutesN 114degree17minutesE People's Republic of China
+569 Chengdu 30degree40minutesN 104degree04minutesE People's Republic of China
+570 Shanghai 31degree12minutesN 121degree30minutesE People's Republic of China
+571 Nanjing 32degree03minutesN 118degree46minutesE People's Republic of China
+572 Xi'an 34degree16minutesN 108degree54minutesE People's Republic of China
+573 Zhengzhou 34degree46minutesN 113degree39minutesE People's Republic of China
+574 Lanzhou 36degree02minutesN 103degree48minutesE People's Republic of China
+575 Qingdao 36degree04minutesN 120degree23minutesE People's Republic of China
+576 Handan 36degree36minutesN 114degree29minutesE People's Republic of China
+577 Xining 36degree38minutesN 101degree46minutesE People's Republic of China
+578 Jinan 36degree40minutesN 116degree59minutesE People's Republic of China
+579 Taiyuan 37degree52minutesN 112degree34minutesE People's Republic of China
+580 Shijiazhuang 38degree03minutesN 114degree30minutesE People's Republic of China
+581 Dalian 38degree55minutesN 121degree38minutesE People's Republic of China
+582 Tianjin 39degree08minutesN 117degree11minutesE People's Republic of China
+583 Beijing 39degree55minutesN 116degree23minutesE People's Republic of China
+584 Shenyang 41degree48minutesN 123degree24minutesE People's Republic of China
+585 Ürümqi 43degree50minutesN 87degree36minutesE People's Republic of China
+586 Changchun 43degree54minutesN 125degree12minutesE People's Republic of China
+587 Harbin 45degree45minutesN 126degree38minutesE People's Republic of China
+588 Lima 12degree03minutesS 77degree02minutesW Peru
+589 Ayacucho 13degree10minutesS 74degree13minutesW Peru
+590 Cusco 13degree32minutesS 71degree58minutesW Peru
+591 Arequipa 16degree24minutesS 71degree32minutesW Peru
+592 Iquitos 3degree44minutesS 73degree15minutesW Peru
+593 Trujillo 8degree07minutesS 79degree02minutesW Peru
+594 Cebu City 10degree17minutesN 123degree54minutesE Philippines
+595 Iloilo City 10degree43minutesN 122degree34minutesE Philippines
+596 Makati 14degree33minutesN 121degree02minutesE Philippines
+597 Manila 14degree35minutesN 120degree58minutesE Philippines
+598 Quezon City 14degree38minutesN 121degree02minutesE Philippines
+599 Zamboanga City 6degree54minutesN 122degree04minutesE Philippines
+600 Davao City 7degree04minutesN 125degree36minutesE Philippines
+601 Tagbilaran 9degree39minutesN 123degree51minutesE Philippines
+602 Kraków 50degree04minutesN 19degree56minutesE Poland
+603 Warsaw 52degree14minutesN 21degree01minutesE Poland
+604 Gdańsk 54degree22minutesN 18degree38minutesE Poland
+605 Gdynia 54degree30minutesN 18degree33minutesE Poland
+606 Funchal 32degree39minutesN 16degree55minutesW Portugal
+607 Ponta Delgada 37degree49minutesN 25degree45minutesW Portugal
+608 Angra do Heroísmo 38degree29minutesN 27degree13minutesW Portugal
+609 Horta 38degree35minutesN 28degree43minutesW Portugal
+610 Lisbon 38degree43minutesN 9degree08minutesW Portugal
+611 Flores Island 39degree28minutesN 31degree14minutesW Portugal
+612 Porto 41degree10minutesN 8degree37minutesW Portugal
+613 Doha 25degree17minutesN 51degree32minutesE Qatar
+614 Kaohsiung 22degree38minutesN 120degree16minutesE Republic of China (Taiwan)
+615 Tainan 22degree59minutesN 120degree11minutesE Republic of China (Taiwan)
+616 Taichung 24degree09minutesN 120degree40minutesE Republic of China (Taiwan)
+617 Taipei 25degree02minutesN 121degree38minutesE Republic of China (Taiwan)
+618 Brazzaville 4degree16minutesS 15degree18minutesE Republic of the Congo
+619 Craiova 44degree20minutesN 23degree49minutesE Romania
+620 Bucharest 44degree26minutesN 26degree06minutesE Romania
+621 Cluj-Napoca 46degree46minutesN 23degree35minutesE Romania
+622 Vladivostok 43degree08minutesN 131degree54minutesE Russia
+623 Sochi 43degree35minutesN 39degree43minutesE Russia
+624 Simferopol 44degree57minutesN 34degree06minutesE Russia
+625 Krasnodar 45degree02minutesN 38degree58minutesE Russia
+626 Rostov-on-Don 47degree14minutesN 39degree42minutesE Russia
+627 Volgograd 48degree42minutesN 44degree31minutesE Russia
+628 Saratov 51degree32minutesN 46degree01minutesE Russia
+629 Voronezh 51degree40minutesN 39degree13minutesE Russia
+630 Irkutsk 52degree19minutesN 104degree18minutesE Russia
+631 Petropavlovsk-Kamchatsky 53degree01minutesN 158degree39minutesE Russia
+632 Samara 53degree12minutesN 50degree08minutesE Russia
+633 Tolyatti 53degree31minutesN 49degree25minutesE Russia
+634 Kaliningrad 54degree43minutesN 20degree31minutesE Russia
+635 Ufa 54degree45minutesN 55degree58minutesE Russia
+636 Omsk 54degree59minutesN 73degree22minutesE Russia
+637 Novosibirsk 55degree01minutesN 82degree56minutesE Russia
+638 Chelyabinsk 55degree09minutesN 61degree23minutesE Russia
+639 Moscow 55degree45minutesN 37degree37minutesE Russia
+640 Kazan 55degree47minutesN 49degree08minutesE Russia
+641 Krasnoyarsk 56degree01minutesN 93degree04minutesE Russia
+642 Bratsk 56degree07minutesN 101degree36minutesE Russia
+643 Nizhny Novgorod 56degree20minutesN 44degree00minutesE Russia
+644 Izhevsk 56degree50minutesN 53degree11minutesE Russia
+645 Yekaterinburg 56degree50minutesN 60degree35minutesE Russia
+646 Yaroslavl 57degree37minutesN 39degree51minutesE Russia
+647 Perm 58degree00minutesN 56degree19minutesE Russia
+648 Magadan 59degree34minutesN 150degree48minutesE Russia
+649 Saint Petersburg 59degree57minutesN 30degree18minutesE Russia
+650 Yakutsk 62degree02minutesN 129degree44minutesE Russia
+651 Arkhangelsk 64degree32minutesN 40degree32minutesE Russia
+652 Anadyr 64degree44minutesN 177degree31minutesE Russia
+653 Verkhoyansk 67degree33minutesN 133degree23minutesE Russia
+654 Murmansk 68degree58minutesN 33degree05minutesE Russia
+655 Norilsk 69degree20minutesN 88degree13minutesE Russia
+656 Kigali 1degree57minutesS 30degree04minutesE Rwanda
+657 Basseterre 17degree18minutesN 62degree44minutesW Saint Kitts and Nevis
+658 Castries 14degree01minutesN 60degree59minutesW Saint Lucia
+659 Kingstown 13degree09minutesN 61degree14minutesW Saint Vincent and the Grenadines
+660 Apia 13degree50minutesS 171degree45minutesW Samoa
+661 San Marino 43degree56minutesN 12degree27minutesE San Marino
+662 São Tomé 0degree20minutesN 6degree41minutesE São Tomé and Príncipe
+663 Mecca 21degree25minutesN 39degree49minutesE Saudi Arabia
+664 Jeddah 21degree33minutesN 39degree10minutesE Saudi Arabia
+665 Medina 24degree28minutesN 39degree36minutesE Saudi Arabia
+666 Riyadh 24degree38minutesN 46degree43minutesE Saudi Arabia
+667 Dammam 26degree17minutesN 50degree12minutesE Saudi Arabia
+668 Dakar 14degree42minutesN 17degree27minutesW Senegal
+669 Thiès 14degree47minutesN 16degree55minutesW Senegal
+670 Pristina 42degree40minutesN 21degree10minutesE Serbia
+671 Belgrade 44degree49minutesN 20degree28minutesE Serbia
+672 Novi Sad 45degree15minutesN 19degree51minutesE Serbia
+673 Victoria 4degree37minutesS 55degree27minutesE Seychelles
+674 Freetown 8degree29minutesN 13degree14minutesW Sierra Leone
+675 Singapore 1degree17minutesN 103degree50minutesE Singapore
+676 Bratislava 48degree09minutesN 17degree07minutesE Slovakia
+677 Ljubljana 46degree03minutesN 14degree31minutesE Slovenia
+678 Honiara 9degree28minutesS 159degree49minutesE Solomon Islands
+679 Kismayo 0degree21minutesS 42degree33minutesE Somalia
+680 Mogadishu 2degree02minutesN 45degree21minutesE Somalia
+681 Hargeisa 9degree34minutesN 44degree04minutesE Somalia
+682 Polokwane 23degree54minutesS 29degree27minutesE South Africa
+683 Nelspruit 25degree28minutesS 30degree59minutesE South Africa
+684 Pretoria 25degree45minutesS 28degree11minutesE South Africa
+685 Mafikeng 25degree51minutesS 25degree38minutesE South Africa
+686 Johannesburg 26degree12minutesS 28degree03minutesE South Africa
+687 Kimberley 28degree45minutesS 24degree46minutesE South Africa
+688 Bloemfontein 29degree07minutesS 26degree13minutesE South Africa
+689 Pietermaritzburg 29degree37minutesS 30degree23minutesE South Africa
+690 Durban 29degree53minutesS 31degree03minutesE South Africa
+691 Bhisho 32degree51minutesS 27degree26minutesE South Africa
+692 Cape Town 33degree56minutesS 18degree25minutesE South Africa
+693 Port Elizabeth 33degree57minutesS 25degree36minutesE South Africa
+694 Busan 35degree11minutesN 129degree05minutesE South Korea
+695 Daegu 35degree52minutesN 128degree36minutesE South Korea
+696 Incheon 37degree29minutesN 126degree38minutesE South Korea
+697 Seoul 37degree34minutesN 126degree59minutesE South Korea
+698 Juba 4degree51minutesN 31degree36minutesE South Sudan
+699 Las Palmas de Gran Canaria 28degree09minutesN 15degree25minutesW Spain
+700 Santa Cruz de Tenerife 28degree28minutesN 16degree15minutesW Spain
+701 Málaga 36degree43minutesN 4degree25minutesW Spain
+702 Sevilla 37degree23minutesN 5degree59minutesW Spain
+703 Ibiza 38degree59minutesN 1degree26minutesE Spain
+704 Valencia 39degree28minutesN 0degree23minutesW Spain
+705 Palma 39degree34minutesN 2degree39minutesE Spain
+706 Madrid 40degree23minutesN 3degree43minutesW Spain
+707 Barcelona 41degree23minutesN 2degree11minutesE Spain
+708 Lleida 41degree37minutesN 0degree38minutesE Spain
+709 Zaragoza 41degree39minutesN 0degree53minutesW Spain
+710 Bilbao 43degree15minutesN 2degree55minutesW Spain
+711 Sri Jayawardenapura-Kotte 6degree55minutesN 79degree53minutesE Sri Lanka
+712 Colombo 6degree56minutesN 79degree51minutesE Sri Lanka
+713 Kandy 7degree18minutesN 80degree38minutesE Sri Lanka
+714 Batticaloa 7degree43minutesN 81degree42minutesE Sri Lanka
+715 Khartoum 15degree38minutesN 32degree32minutesE Sudan
+716 Omdurman 15degree39minutesN 32degree29minutesE Sudan
+717 Paramaribo 5degree52minutesN 55degree10minutesW Suriname
+718 Mbabane 26degree19minutesS 31degree08minutesE Swaziland
+719 Lobamba 26degree25minutesS 31degree10minutesE Swaziland
+720 Manzini 26degree29minutesS 31degree22minutesE Swaziland
+721 Malmö 55degree35minutesN 13degree02minutesE Sweden
+722 Gothenburg 57degree42minutesN 11degree58minutesE Sweden
+723 Norrköping 58degree36minutesN 16degree12minutesE Sweden
+724 Stockholm 59degree20minutesN 18degree04minutesE Sweden
+725 Uppsala 59degree51minutesN 17degree39minutesE Sweden
+726 Sundsvall 62degree24minutesN 17degree19minutesE Sweden
+727 Östersund 63degree11minutesN 14degree40minutesE Sweden
+728 Örnsköldsvik 63degree17minutesN 18degree44minutesE Sweden
+729 Umeå 63degree50minutesN 20degree16minutesE Sweden
+730 Skellefteå 64degree45minutesN 20degree57minutesE Sweden
+731 Piteå 65degree20minutesN 21degree30minutesE Sweden
+732 Luleå 65degree35minutesN 22degree09minutesE Sweden
+733 Boden 65degree50minutesN 21degree43minutesE Sweden
+734 Haparanda 65degree50minutesN 24degree08minutesE Sweden
+735 Kiruna 67degree51minutesN 20degree13minutesE Sweden
+736 Geneva 46degree12minutesN 6degree09minutesE Switzerland
+737 Lausanne 46degree31minutesN 6degree38minutesE Switzerland
+738 Bern 46degree57minutesN 7degree27minutesE Switzerland
+739 Zürich 47degree22minutesN 8degree33minutesE Switzerland
+740 Basel 47degree34minutesN 7degree36minutesE Switzerland
+741 Damascus 33degree31minutesN 36degree18minutesE Syria
+742 Latakia 35degree31minutesN 35degree47minutesE Syria
+743 Dushanbe 38degree32minutesN 68degree47minutesE Tajikistan
+744 Mwanza 2degree31minutesS 32degree54minutesE Tanzania
+745 Dodoma 6degree10minutesS 35degree45minutesE Tanzania
+746 Zanzibar City 6degree10minutesS 39degree12minutesE Tanzania
+747 Dar es Salaam 6degree48minutesS 39degree17minutesE Tanzania
+748 Pattaya 12degree56minutesN 100degree53minutesE Thailand
+749 Bangkok 13degree45minutesN 100degree28minutesE Thailand
+750 Phra Nakhon Si Ayutthaya 14degree21minutesN 100degree34minutesE Thailand
+751 Nakhon Ratchasima 14degree59minutesN 102degree06minutesE Thailand
+752 Khon Kaen 16degree26minutesN 102degree50minutesE Thailand
+753 Udon Thani 17degree25minutesN 102degree45minutesE Thailand
+754 Chiang Mai 18degree48minutesN 99degree00minutesE Thailand
+755 Chiang Rai 19degree55minutesN 99degree50minutesE Thailand
+756 Hat Yai 7degree01minutesN 100degree28minutesE Thailand
+757 Phuket 7degree53minutesN 98degree24minutesE Thailand
+758 Surat Thani 9degree08minutesN 99degree20minutesE Thailand
+759 Dili 8degree33minutesS 125degree35minutesE Timor-Leste
+760 Lomé 6degree08minutesN 1degree13minutesE Togo
+761 Nukuʻalofa 21degree08minutesS 175degree12minutesW Tonga
+762 San Fernando 10degree17minutesN 61degree28minutesW Trinidad and Tobago
+763 Chaguanas 10degree30minutesN 61degree23minutesW Trinidad and Tobago
+764 Port of Spain 10degree40minutesN 61degree31minutesW Trinidad and Tobago
+765 Sfax 34degree44minutesN 10degree46minutesE Tunisia
+766 Tunis 36degree48minutesN 10degree11minutesE Tunisia
+767 Mersin 36degree48minutesN 34degree38minutesE Turkey
+768 Adana 37degree00minutesN 35degree19minutesE Turkey
+769 Gaziantep 37degree04minutesN 37degree23minutesE Turkey
+770 Konya 37degree52minutesN 32degree29minutesE Turkey
+771 İzmir 38degree26minutesN 27degree09minutesE Turkey
+772 Eskisehir 39degree47minutesN 30degree31minutesE Turkey
+773 Ankara 39degree56minutesN 32degree52minutesE Turkey
+774 Bursa 40degree11minutesN 29degree03minutesE Turkey
+775 Istanbul 41degree01minutesN 28degree57minutesE Turkey
+776 Ashgabat 37degree56minutesN 58degree22minutesE Turkmenistan
+777 Funafuti 8degree31minutesS 179degree13minutesE Tuvalu
+778 Nukulaelae 9degree23minutesS 179degree51minutesE Tuvalu
+779 Entebbe 0degree03minutesN 32degree28minutesE Uganda
+780 Kampala 0degree19minutesN 32degree35minutesE Uganda
+781 Odessa 46degree28minutesN 30degree44minutesE Ukraine
+782 Lviv 49degree51minutesN 24degree01minutesE Ukraine
+783 Kharkiv 50degree00minutesN 36degree14minutesE Ukraine
+784 Kiev 50degree27minutesN 30degree31minutesE Ukraine
+785 Abu Dhabi 24degree28minutesN 54degree22minutesE United Arab Emirates
+786 Dubai 25degree15minutesN 55degree18minutesE United Arab Emirates
+787 Jamestown 15degree55minutesS 5degree43minutesW United Kingdom
+788 The Valley 18degree13minutesN 63degree03minutesW United Kingdom
+789 Road Town 18degree26minutesN 64degree37minutesW United Kingdom
+790 George Town 19degree18minutesN 81degree23minutesW United Kingdom
+791 Cockburn Town 21degree28minutesN 71degree08minutesW United Kingdom
+792 Adamstown 25degree04minutesS 130degree06minutesW United Kingdom
+793 Hamilton 32degree18minutesN 64degree47minutesW United Kingdom
+794 Gibraltar 36degree08minutesN 5degree21minutesW United Kingdom
+795 Plymouth 50degree22minutesN 4degree09minutesW United Kingdom
+796 Exeter 50degree43minutesN 3degree32minutesW United Kingdom
+797 Portsmouth 50degree49minutesN 1degree05minutesW United Kingdom
+798 Brighton and Hove 50degree50minutesN 0degree09minutesW United Kingdom
+799 Southampton 50degree54minutesN 1degree24minutesW United Kingdom
+800 Bath 51degree23minutesN 2degree22minutesW United Kingdom
+801 Bristol 51degree27minutesN 2degree35minutesW United Kingdom
+802 Cardiff 51degree29minutesN 3degree11minutesW United Kingdom
+803 Greenwich 51degree29minutesN 0degree00minutesE/W United Kingdom
+804 London 51degree30minutesN 0degree08minutesW United Kingdom
+805 Swansea 51degree37minutesN 3degree57minutesW United Kingdom
+806 Stanley 51degree42minutesS 57degree52minutesW United Kingdom
+807 Oxford 51degree45minutesN 1degree15minutesW United Kingdom
+808 Gloucester 51degree52minutesN 2degree14minutesW United Kingdom
+809 Cambridge 52degree12minutesN 0degree07minutesE United Kingdom
+810 Coventry 52degree24minutesN 1degree31minutesW United Kingdom
+811 Birmingham 52degree29minutesN 1degree54minutesW United Kingdom
+812 Peterborough 52degree35minutesN 0degree15minutesW United Kingdom
+813 Leicester 52degree38minutesN 1degree08minutesW United Kingdom
+814 Norwich 52degree38minutesN 1degree18minutesE United Kingdom
+815 Nottingham 52degree57minutesN 1degree08minutesW United Kingdom
+816 Sheffield 53degree23minutesN 1degree28minutesW United Kingdom
+817 Liverpool 53degree24minutesN 2degree59minutesW United Kingdom
+818 Manchester 53degree28minutesN 2degree14minutesW United Kingdom
+819 Bradford 53degree48minutesN 1degree45minutesW United Kingdom
+820 Leeds 53degree48minutesN 1degree33minutesW United Kingdom
+821 Douglas 54degree09minutesN 4degree29minutesW United Kingdom
+822 Grytviken 54degree17minutesS 36degree30minutesW United Kingdom
+823 Belfast 54degree36minutesN 5degree56minutesW United Kingdom
+824 Newcastle upon Tyne 54degree58minutesN 1degree37minutesW United Kingdom
+825 Glasgow 55degree51minutesN 4degree16minutesW United Kingdom
+826 Edinburgh 55degree57minutesN 3degree11minutesW United Kingdom
+827 Dundee 56degree28minutesN 2degree58minutesW United Kingdom
+828 Aberdeen 57degree09minutesN 2degree07minutesW United Kingdom
+829 Inverness 57degree28minutesN 4degree14minutesW United Kingdom
+830 Hagåtña 13degree29minutesN 144degree45minutesE United States
+831 Dededo 13degree31minutesN 144degree50minutesE United States
+832 Pago Pago 14degree17minutesS 170degree42minutesW United States
+833 Saipan 15degree11minutesN 145degree45minutesE United States
+834 Charlotte Amalie 18degree21minutesN 64degree57minutesW United States
+835 San Juan 18degree27minutesN 66degree04minutesW United States
+836 Hilo 19degree42minutesN 155degree05minutesW United States
+837 Honolulu 21degree19minutesN 157degree50minutesW United States
+838 Key West 24degree34minutesN 81degree47minutesW United States
+839 Miami 25degree47minutesN 80degree13minutesW United States
+840 Tampa 27degree57minutesN 82degree28minutesW United States
+841 Orlando 28degree25minutesN 81degree18minutesW United States
+842 San Antonio 29degree25minutesN 98degree30minutesW United States
+843 Houston 29degree46minutesN 95degree23minutesW United States
+844 New Orleans 29degree58minutesN 90degree03minutesW United States
+845 Austin 30degree15minutesN 97degree45minutesW United States
+846 Jacksonville 30degree20minutesN 81degree40minutesW United States
+847 Mobile 30degree42minutesN 88degree03minutesW United States
+848 El Paso 31degree47minutesN 106degree25minutesW United States
+849 Tucson 32degree13minutesN 110degree56minutesW United States
+850 Jackson 32degree18minutesN 90degree11minutesW United States
+851 San Diego 32degree43minutesN 117degree10minutesW United States
+852 Dallas 32degree47minutesN 96degree48minutesW United States
+853 Phoenix 33degree27minutesN 112degree04minutesW United States
+854 Birmingham 33degree39minutesN 86degree49minutesW United States
+855 Atlanta 33degree45minutesN 84degree23minutesW United States
+856 Riverside 33degree57minutesN 117degree24minutesW United States
+857 Columbia 34degree00minutesN 81degree03minutesW United States
+858 Los Angeles 34degree03minutesN 118degree15minutesW United States
+859 Wilmington 34degree13minutesN 77degree55minutesW United States
+860 Santa Barbara 34degree26minutesN 119degree43minutesW United States
+861 Little Rock 34degree44minutesN 92degree20minutesW United States
+862 Albuquerque 35degree07minutesN 106degree37minutesW United States
+863 Memphis 35degree07minutesN 89degree58minutesW United States
+864 Charlotte 35degree14minutesN 80degree51minutesW United States
+865 Oklahoma City 35degree29minutesN 97degree32minutesW United States
+866 Santa Fe 35degree40minutesN 105degree58minutesW United States
+867 Raleigh 35degree49minutesN 78degree39minutesW United States
+868 Los Alamos 35degree53minutesN 106degree18minutesW United States
+869 Knoxville 35degree58minutesN 83degree57minutesW United States
+870 Tulsa 36degree08minutesN 95degree56minutesW United States
+871 Nashville 36degree10minutesN 86degree47minutesW United States
+872 Las Vegas 36degree11minutesN 115degree08minutesW United States
+873 Virginia Beach 36degree51minutesN 75degree59minutesW United States
+874 Springfield 37degree12minutesN 93degree17minutesW United States
+875 Wichita 37degree41minutesN 97degree20minutesW United States
+876 San Francisco 37degree47minutesN 122degree25minutesW United States
+877 Louisville 38degree15minutesN 85degree46minutesW United States
+878 Charleston 38degree21minutesN 81degree38minutesW United States
+879 Sacramento 38degree33minutesN 121degree28minutesW United States
+880 St. Louis 38degree38minutesN 90degree12minutesW United States
+881 Washington 38degree54minutesN 77degree02minutesW United States
+882 Cincinnati 39degree06minutesN 84degree31minutesW United States
+883 Kansas City 39degree06minutesN 94degree35minutesW United States
+884 Dover 39degree10minutesN 75degree32minutesW United States
+885 Baltimore 39degree17minutesN 76degree37minutesW United States
+886 Reno 39degree32minutesN 119degree49minutesW United States
+887 Denver 39degree44minutesN 104degree59minutesW United States
+888 Indianapolis 39degree46minutesN 86degree09minutesW United States
+889 Forked River 39degree48minutesN 74degree06minutesW United States
+890 Philadelphia 39degree57minutesN 75degree10minutesW United States
+891 Columbus 39degree59minutesN 82degree59minutesW United States
+892 Boulder 40degree01minutesN 105degree17minutesW United States
+893 Trenton 40degree13minutesN 74degree46minutesW United States
+894 Pittsburgh 40degree27minutesN 80degree00minutesW United States
+895 New York City 40degree40minutesN 73degree56minutesW United States
+896 Jersey City 40degree43minutesN 74degree04minutesW United States
+897 Salt Lake City 40degree45minutesN 111degree53minutesW United States
+898 Lincoln 40degree49minutesN 96degree41minutesW United States
+899 Fort Wayne 41degree05minutesN 85degree08minutesW United States
+900 Cheyenne 41degree09minutesN 104degree48minutesW United States
+901 Cleveland 41degree29minutesN 81degree40minutesW United States
+902 Des Moines 41degree35minutesN 93degree37minutesW United States
+903 Hartford 41degree46minutesN 72degree40minutesW United States
+904 Providence 41degree49minutesN 71degree25minutesW United States
+905 Chicago 41degree53minutesN 87degree38minutesW United States
+906 Detroit 42degree20minutesN 83degree03minutesW United States
+907 Boston 42degree21minutesN 71degree04minutesW United States
+908 Buffalo 42degree54minutesN 78degree51minutesW United States
+909 Milwaukee 43degree03minutesN 87degree57minutesW United States
+910 Rochester 43degree10minutesN 77degree37minutesW United States
+911 Concord 43degree12minutesN 71degree32minutesW United States
+912 Boise 43degree37minutesN 116degree12minutesW United States
+913 Montpelier 44degree15minutesN 72degree34minutesW United States
+914 Augusta 44degree19minutesN 69degree47minutesW United States
+915 Pierre 44degree22minutesN 100degree20minutesW United States
+916 Minneapolis 44degree59minutesN 93degree16minutesW United States
+917 Portland 45degree31minutesN 122degree41minutesW United States
+918 Helena 46degree36minutesN 112degree02minutesW United States
+919 Bismarck 46degree49minutesN 100degree47minutesW United States
+920 Seattle 47degree37minutesN 122degree20minutesW United States
+921 Adak 51degree53minutesN 176degree39minutesW United States
+922 Sitka 57degree03minutesN 135degree20minutesW United States
+923 Juneau 58degree18minutesN 134degree25minutesW United States
+924 Anchorage 61degree13minutesN 149degree54minutesW United States
+925 Fairbanks 64degree51minutesN 147degree43minutesW United States
+926 Deadhorse 70degree12minutesN 148degree31minutesW United States
+927 Barrow 71degree18minutesN 156degree46minutesW United States
+928 Montevideo 34degree53minutesS 56degree11minutesW Uruguay
+929 Namangan 41degree00minutesN 71degree40minutesE Uzbekistan
+930 Tashkent 41degree16minutesN 69degree13minutesE Uzbekistan
+931 Nukus 42degree28minutesN 59degree36minutesE Uzbekistan
+932 Port Vila 17degree45minutesS 168degree18minutesE Vanuatu
+933 Vatican City 41degree54minutesN 12degree27minutesE Vatican City
+934 Maracay 10degree15minutesN 67degree36minutesW Venezuela
+935 Caracas 10degree30minutesN 66degree55minutesW Venezuela
+936 Maracaibo 10degree39minutesN 71degree38minutesW Venezuela
+937 Puerto Ayacucho 5degree40minutesN 67degree38minutesW Venezuela
+938 Ciudad Bolívar 8degree07minutesN 63degree33minutesW Venezuela
+939 Ho Chi Minh City 10degree46minutesN 106degree41minutesE Vietnam
+940 Da Nang 16degree04minutesN 108degree14minutesE Vietnam
+941 Huế 16degree28minutesN 107degree35minutesE Vietnam
+942 Hai Phong 20degree51minutesN 106degree41minutesE Vietnam
+943 Hanoi 21degree02minutesN 105degree51minutesE Vietnam
+944 Sana'a 15degree21minutesN 44degree12minutesE Yemen
+945 Ndola 12degree58minutesS 28degree38minutesE Zambia
+946 Lusaka 15degree25minutesS 28degree17minutesE Zambia
+947 Livingstone 17degree51minutesS 25degree52minutesE Zambia
+948 Harare 17degree52minutesS 31degree02minutesE Zimbabwe
+949 Mutare 18degree58minutesS 32degree38minutesE Zimbabwe
+950 Gweru 19degree27minutesS 29degree48minutesE Zimbabwe
+951 Bulawayo 20degree10minutesS 28degree35minutesE Zimbabwe
